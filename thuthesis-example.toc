@@ -1,0 +1,37 @@
+\contentsline {chapter}{摘\hskip 1em\relax 要}{I}{section*.9}% 
+\contentsline {chapter}{Abstract}{III}{section*.11}% 
+\contentsline {chapter}{目\hskip 1em\relax 录}{IV}{section*.13}% 
+\contentsline {chapter}{插图和附表清单}{VI}{section*.15}% 
+\contentsline {chapter}{符号和缩略语说明}{VII}{section*.17}% 
+\contentsline {chapter}{\numberline {第1章}引言}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}选题背景及意义}{1}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}触摸交互的重要性}{1}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}触摸交互的改进方向}{2}{subsection.1.1.2}% 
+\contentsline {section}{\numberline {1.2}研究现状}{3}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}电容触摸屏}{3}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}基于运动传感的触摸感知技术}{3}{subsection.1.2.2}% 
+\contentsline {section}{\numberline {1.3}研究内容}{4}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}主要研究成果}{4}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}论文组织结构}{6}{section.1.5}% 
+\contentsline {chapter}{\numberline {第2章}基于最优控制理论的触摸运动模型}{8}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}触摸运动的数学模型}{8}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}触摸运动的计算模型}{11}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}卡尔曼滤波}{11}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}最小二乘拟合}{11}{subsection.2.2.2}% 
+\contentsline {section}{\numberline {2.3}触摸运动的应用}{13}{section.2.3}% 
+\contentsline {chapter}{\numberline {第3章}基于运动传感指环的低延迟触摸感知技术}{14}{chapter.3}% 
+\contentsline {chapter}{\numberline {第4章}面向连续触摸输入的防误触技术}{15}{chapter.4}% 
+\setcounter {tocdepth}{0}
+\contentsline {chapter}{参考文献}{16}{section*.22}% 
+\setcounter {tocdepth}{0}
+\contentsline {chapter}{\numberline {附录 A}补充内容}{18}{appendix.A}% 
+\contentsline {section}{\numberline {A.1}图表示例}{18}{section.A.1}% 
+\contentsline {subsection}{\numberline {A.1.1}图}{18}{subsection.A.1.1}% 
+\contentsline {subsection}{\numberline {A.1.2}表格}{18}{subsection.A.1.2}% 
+\contentsline {section}{\numberline {A.2}数学公式}{19}{section.A.2}% 
+\contentsline {chapter}{致\hskip 1em\relax 谢}{20}{section*.26}% 
+\contentsline {chapter}{声\hspace {1em}明}{21}{section*.28}% 
+\contentsline {chapter}{个人简历、在学期间完成的相关学术成果}{22}{section*.30}% 
+\contentsline {chapter}{指导教师学术评语}{23}{appendix*.36}% 
+\contentsline {chapter}{答辩委员会决议书}{24}{appendix*.37}% 
+\contentsfinish 

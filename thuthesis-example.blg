@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thuthesis-example.aux
+The style file: thuthesis-numeric.bst
+A level-1 auxiliary file: bu.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 150 items from 100.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ref/refs.bib
+Warning--empty year in oclc2000about
+Warning--empty year in oclc2000about
+You've used 35 entries,
+            5210 wiz_defined-function locations,
+            1243 strings with 12488 characters,
+and the built_in function-call counts, 169399 in all, are:
+= -- 4613
+> -- 17174
+< -- 23581
++ -- 7699
+- -- 1609
+* -- 1239
+:= -- 24545
+add.period$ -- 121
+call.type$ -- 35
+change.case$ -- 52
+chr.to.int$ -- 6497
+cite$ -- 37
+duplicate$ -- 881
+empty$ -- 2193
+format.name$ -- 691
+if$ -- 43537
+int.to.chr$ -- 1
+int.to.str$ -- 36
+missing$ -- 0
+newline$ -- 208
+num.names$ -- 111
+pop$ -- 6468
+preamble$ -- 1
+purify$ -- 35
+quote$ -- 0
+skip$ -- 16865
+stack$ -- 0
+substring$ -- 8920
+swap$ -- 36
+text.length$ -- 623
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 389
+warning$ -- 2
+while$ -- 700
+width$ -- 0
+write$ -- 500
+(There were 2 warnings)
