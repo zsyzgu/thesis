@@ -1,4 +1,4 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{200}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -11,221 +11,1451 @@
   \let\eprint\href
 \fi
 
+\bibitem[Jota et~al.(2013)Jota, Ng, Dietz, and Wigdor]{jota2013fast}
+Jota~R, Ng~A, Dietz~P, et~al.
+\newblock How fast is fast enough? a study of the effects of latency in
+  direct-touch pointing tasks\allowbreak[C]//\allowbreak
+Proceedings of the sigchi conference on human factors in computing systems.
+\newblock 2013: 2291-2300.
+
+\bibitem[Lam et~al.(2002)Lam, Li, Liu, and Xi]{lam2002mids}
+Lam~A~H, Li~W~J, Liu~Y, et~al.
+\newblock Mids: micro input devices system using mems
+  sensors\allowbreak[C]//\allowbreak
+IEEE/RSJ International Conference on Intelligent Robots and Systems: volume~2.
+\newblock IEEE, 2002: 1184-1189.
+
 \bibitem[Alsop(2020)]{alsop2020shipment}
 Alsop~T.
 \newblock Shipment forecast of tablets, laptops and desktop pcs worldwide from
   2010 to 2024 (in million units)\allowbreak[J].
 \newblock Statista, 2020.
 
-\bibitem[张昆\ 等(1994)张昆, 冯立群, 余昌钰, et~al.]{zhangkun1994}
-张昆, 冯立群, 余昌钰, 等.
-\newblock 机器人柔性手腕的球面齿轮设计研究\allowbreak[J].
-\newblock 清华大学学报: 自然科学版, 1994, 34\allowbreak (2): 1-7.
+\bibitem[hol(2021)]{hololens2}
+Hololens2\allowbreak[EB/OL].
+\newblock 2021.
+\newblock \url{https://www.microsoft.com/en-us/hololens}.
 
-\bibitem[竺可桢(1973)]{zhukezhen1973}
-竺可桢.
-\newblock 物理学论\allowbreak[M].
-\newblock 北京: 科学出版社, 1973: 56-60.
+\bibitem[Gu et~al.(2019)Gu, Yu, Li, Li, Xu, Wei, and Shi]{gu2019accurate}
+Gu~Y, Yu~C, Li~Z, et~al.
+\newblock Accurate and low-latency sensing of touch contact on any surface with
+  finger-worn imu sensor\allowbreak[C]//\allowbreak
+Proceedings of the 32nd Annual ACM Symposium on User Interface Software and
+  Technology.
+\newblock 2019: 1059-1070.
 
-\bibitem[Dupont(1974)]{dupont1974bone}
-Dupont~B.
-\newblock Bone marrow transplantation in severe combined immunodeficiency with
-  an unrelated mlc compatible donor\allowbreak[C]//\allowbreak
-White~H~J, Smith~R.
-\newblock Proceedings of the third annual meeting of the International Society
-  for Experimental Hematology.
-\newblock Houston: International Society for Experimental Hematology, 1974:
-  44-46.
+\bibitem[Jakobsen et~al.(2015)Jakobsen, Jansen, Boring, and
+  Hornb{\ae}k]{jakobsen2015should}
+Jakobsen~M~R, Jansen~Y, Boring~S, et~al.
+\newblock Should i stay or should i go? selecting between touch and mid-air
+  gestures for large-display interaction\allowbreak[C]//\allowbreak
+IFIP Conference on Human-Computer Interaction.
+\newblock Springer, 2015: 455-473.
 
-\bibitem[郑开青(1987)]{zhengkaiqing1987}
-郑开青.
-\newblock 通讯系统模拟及软件\allowbreak[D].
-\newblock 北京: 清华大学无线电系, 1987.
+\bibitem[Miller(1968)]{miller1968response}
+Miller~R~B.
+\newblock Response time in man-computer conversational
+  transactions\allowbreak[C]//\allowbreak
+Proceedings of the December 9-11, 1968, fall joint computer conference, part I.
+\newblock 1968: 267-277.
 
-\bibitem[姜锡洲(1980)]{jiangxizhou1980}
-姜锡洲.
-\newblock 一种温热外敷药制备方案: 中国, 88105607.3\allowbreak[P].
-\newblock 1980-07-26.
+\bibitem[Ng et~al.(2012)Ng, Lepinski, Wigdor, Sanders, and
+  Dietz]{ng2012designing}
+Ng~A, Lepinski~J, Wigdor~D, et~al.
+\newblock Designing for low-latency direct-touch
+  input\allowbreak[C]//\allowbreak
+Proceedings of the 25th annual ACM symposium on User interface software and
+  technology.
+\newblock 2012: 453-464.
 
-\bibitem[中华人民共和国国家技术监督局(1994)]{jianduju1994}
-中华人民共和国国家技术监督局.
-\newblock GB3100-3102.
-  中华人民共和国国家标准-量与单位\allowbreak[S].
-\newblock 北京: 中国标准出版社, 1994.
+\bibitem[Yi et~al.(2017{\natexlab{a}})Yi, Yu, Shi, and Shi]{yi2017too}
+Yi~X, Yu~C, Shi~W, et~al.
+\newblock Is it too small?: Investigating the performances and preferences of
+  users when typing on tiny qwerty keyboards\allowbreak[J].
+\newblock International Journal of Human-Computer Studies, 2017{\natexlab{a}},
+  106: 44-62.
 
-\bibitem[Merkt et~al.(1995)Merkt, Mackenzie, and Softley]{merkt1995rotational}
-Merkt~F, Mackenzie~S~R, Softley~T~P.
-\newblock Rotational autoionization dynamics in high rydberg states of
-  nitrogen\allowbreak[J].
-\newblock J Chem Phys, 1995, 103: 4509-4518.
+\bibitem[Harrison et~al.(2011{\natexlab{a}})Harrison, Benko, and
+  Wilson]{harrison2011omnitouch}
+Harrison~C, Benko~H, Wilson~A~D.
+\newblock Omnitouch: wearable multitouch interaction
+  everywhere\allowbreak[C]//\allowbreak
+Proceedings of the 24th annual ACM symposium on User interface software and
+  technology.
+\newblock 2011{\natexlab{a}}: 441-450.
 
-\bibitem[Mellinger et~al.(1996)Mellinger, Vidal, and
-  Jungen]{mellinger1996laser}
-Mellinger~A, Vidal~C~R, Jungen~C.
-\newblock Laser reduced fluorescence study of the carbon monoxide nd triplet
-  rydberg series - experimental results and multichannel quantum defect
-  analysis\allowbreak[J].
-\newblock J Chem Phys, 1996, 104: 8913-8921.
+\bibitem[Xiao et~al.(2018)Xiao, Schwarz, Throm, Wilson, and
+  Benko]{xiao2018mrtouch}
+Xiao~R, Schwarz~J, Throm~N, et~al.
+\newblock Mrtouch: Adding touch input to head-mounted mixed
+  reality\allowbreak[J].
+\newblock IEEE transactions on visualization and computer graphics, 2018,
+  24\allowbreak (4): 1653-1660.
 
-\bibitem[Bixon et~al.(1996)Bixon and Jortner]{bixon1996dynamics}
-Bixon~M, Jortner~J.
-\newblock The dynamics of predissociating high {Rydberg} states of
-  {NO}\allowbreak[J].
-\newblock J Chem Phys, 1996, 105: 1363-1382.
+\bibitem[Paradiso et~al.(2000)Paradiso, Hsiao, Strickon, Lifton, and
+  Adler]{paradiso2000sensor}
+Paradiso~J~A, Hsiao~K~y, Strickon~J, et~al.
+\newblock Sensor systems for interactive surfaces\allowbreak[J].
+\newblock IBM Systems Journal, 2000, 39\allowbreak (3.4): 892-914.
 
-\bibitem[马辉\ 等(1995)马辉, 李俭, 刘耀明, et~al.]{mahui1995}
-马辉, 李俭, 刘耀明, 等.
-\newblock 利用 {REMPI} 方法测量 {BaF}
-  高里德堡系列光谱\allowbreak[J].
-\newblock 化学物理学报, 1995, 8: 308-311.
+\bibitem[Agarwal et~al.(2007)Agarwal, Izadi, Chandraker, and
+  Blake]{agarwal2007high}
+Agarwal~A, Izadi~S, Chandraker~M, et~al.
+\newblock High precision multi-touch sensing on surfaces using overhead
+  cameras\allowbreak[C]//\allowbreak
+Second Annual IEEE International Workshop on Horizontal Interactive
+  Human-Computer Systems (TABLETOP'07).
+\newblock IEEE, 2007: 197-200.
 
-\bibitem[Carlson et~al.(1981)Carlson, Taylor, Jones, and
-  Schawlow]{carlson1981two}
-Carlson~N~W, Taylor~A~J, Jones~K~M, et~al.
-\newblock Two-step polarization-labeling spectroscopy of excited states of
-  {Na2}\allowbreak[J].
-\newblock Phys Rev A, 1981, 24: 822-834.
+\bibitem[Chang et~al.(2005)Chang, Kim, Jung, and Kim]{chang2005real}
+Chang~J~S, Kim~E~Y, Jung~K, et~al.
+\newblock Real time hand tracking based on active contour
+  model\allowbreak[C]//\allowbreak
+International Conference on Computational Science and Its Applications.
+\newblock Springer, 2005: 999-1006.
 
-\bibitem[Taylor et~al.(1983)Taylor, Jones, and Schawlow]{taylor1983scanning}
-Taylor~A~J, Jones~K~M, Schawlow~A~L.
-\newblock Scanning pulsed-polarization spectrometer applied to
-  {Na2}\allowbreak[J].
-\newblock J Opt Soc Am, 1983, 73: 994-998.
+\bibitem[Letessier et~al.(2004)Letessier and B{\'e}rard]{letessier2004visual}
+Letessier~J, B{\'e}rard~F.
+\newblock Visual tracking of bare fingers for interactive
+  surfaces\allowbreak[C]//\allowbreak
+Proceedings of the 17th annual ACM symposium on User interface software and
+  technology.
+\newblock 2004: 119-122.
 
-\bibitem[Taylor et~al.(1981)Taylor, Jones, and Schawlow]{taylor1981study}
-Taylor~A~J, Jones~K~M, Schawlow~A~L.
-\newblock A study of the excited {1$\Sigma$g+} states in {Na2}\allowbreak[J].
-\newblock Opt Commun, 1981, 39: 47-50.
+\bibitem[Sugita et~al.(2008)Sugita, Iwai, and Sato]{sugita2008touch}
+Sugita~N, Iwai~D, Sato~K.
+\newblock Touch sensing by image analysis of
+  fingernail\allowbreak[C]//\allowbreak
+2008 SICE Annual Conference.
+\newblock IEEE, 2008: 1520-1525.
 
-\bibitem[Shimizu et~al.(1983)Shimizu and Shimizu]{shimizu1983laser}
-Shimizu~K, Shimizu~F.
-\newblock Laser induced fluorescence spectra of the a {3$\Pi$u--X 1$\Sigma$g+}
-  band of {Na2} by molecular beam\allowbreak[J].
-\newblock J Chem Phys, 1983, 78: 1126-1131.
+\bibitem[Grudin(2001)]{grudin2001integrating}
+Grudin~J.
+\newblock Integrating paper and digital information on enhanceddesk: a method
+  for realtime finger tracking on an augmented desk system\allowbreak[J].
+\newblock ACM Transactions on Computer-Human Interaction (TOCHI), 2001,
+  8\allowbreak (4): 307-322.
 
-\bibitem[Atkinson et~al.(1982)Atkinson, Becker, and
-  Demtr{\"o}der]{atkinson1982experimental}
-Atkinson~J~B, Becker~J, Demtr{\"o}der~W.
-\newblock Experimental observation of the a {3$\Pi$u} state of
-  {Na2}\allowbreak[J].
-\newblock Chem Phys Lett, 1982, 87: 92-97.
+\bibitem[Saba et~al.(2012)Saba, Larson, and Patel]{saba2012dante}
+Saba~E~N, Larson~E~C, Patel~S~N.
+\newblock Dante vision: In-air and touch gesture sensing for natural surface
+  interaction with combined depth and thermal
+  cameras\allowbreak[C]//\allowbreak
+2012 IEEE International Conference on Emerging Signal Processing Applications.
+\newblock IEEE, 2012: 167-170.
 
-\bibitem[Kusch et~al.(1975)Kusch and Hessel]{kusch1975perturbations}
-Kusch~P, Hessel~M~M.
-\newblock Perturbations in the a {1$\Sigma$u+} state of {Na2}\allowbreak[J].
-\newblock J Chem Phys, 1975, 63: 4087-4088.
+\bibitem[Xiao et~al.(2016)Xiao, Hudson, and Harrison]{xiao2016direct}
+Xiao~R, Hudson~S, Harrison~C.
+\newblock Direct: Making touch tracking on ordinary surfaces practical with
+  hybrid depth-infrared sensing\allowbreak[C]//\allowbreak
+Proceedings of the 2016 ACM International Conference on Interactive Surfaces
+  and Spaces.
+\newblock 2016: 85-94.
 
-\bibitem[广西壮族自治区林业厅(1993)]{guangxi1993}
-广西壮族自治区林业厅.
-\newblock 广西自然保护区\allowbreak[M].
-\newblock 北京: 中国林业出版社, 1993.
+\bibitem[Benko et~al.(2012)Benko, Jota, and Wilson]{benko2012miragetable}
+Benko~H, Jota~R, Wilson~A.
+\newblock Miragetable: freehand interaction on a projected augmented reality
+  tabletop\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI conference on human factors in computing systems.
+\newblock 2012: 199-208.
 
-\bibitem[霍斯尼(1989)]{huosini1989guwu}
-霍斯尼.
-\newblock 谷物科学与工艺学原理\allowbreak[M].
-\newblock 李庆龙, 译. 2 版.
-\newblock 北京: 中国食品出版社, 1989: 15-20.
+\bibitem[Wilson et~al.(2010)Wilson and Benko]{wilson2010combining}
+Wilson~A~D, Benko~H.
+\newblock Combining multiple depth cameras and projectors for interactions on,
+  above and between surfaces\allowbreak[C]//\allowbreak
+Proceedings of the 23nd annual ACM symposium on User interface software and
+  technology.
+\newblock 2010: 273-282.
 
-\bibitem[王夫之(1865（清同治四年）)]{wangfuzhi1865songlun}
-王夫之.
-\newblock 宋论\allowbreak[M].
-\newblock 刻本.
-\newblock 金陵: 曾氏, 1865（清同治四年）.
+\bibitem[Newcombe et~al.(2011)Newcombe, Izadi, Hilliges, Molyneaux, Kim,
+  Davison, Kohi, Shotton, Hodges, and Fitzgibbon]{newcombe2011kinectfusion}
+Newcombe~R~A, Izadi~S, Hilliges~O, et~al.
+\newblock Kinectfusion: Real-time dense surface mapping and
+  tracking\allowbreak[C]//\allowbreak
+2011 10th IEEE international symposium on mixed and augmented reality.
+\newblock IEEE, 2011: 127-136.
 
-\bibitem[赵耀东(1998)]{zhaoyaodong1998xinshidai}
-赵耀东.
-\newblock 新时代的工业工程师\allowbreak[M/OL].
-\newblock 台北: 天下文化出版社, 1998\allowbreak[1998-09-26].
-\newblock \url{http://www.ie.nthu.edu.tw/info/ie.newie.htm}.
+\bibitem[Mistry et~al.(2011)Mistry and Maes]{mistry2011mouseless}
+Mistry~P, Maes~P.
+\newblock Mouseless: a computer mouse as small as
+  invisible\allowbreak[M]//\allowbreak
+CHI'11 Extended Abstracts on Human Factors in Computing Systems.
+\newblock 2011: 1099-1104.
 
-\bibitem[全国信息与文献工作标准化技术委员会出版物格式分委员会(2002)]{biaozhunhua2002tushu}
-全国信息与文献工作标准化技术委员会出版物格式分委员会.
-\newblock GB/T 12450-2001 图书书名页\allowbreak[S].
-\newblock 北京: 中国标准出版社, 2002: 1.
+\bibitem[Xiao et~al.(2013)Xiao, Harrison, and Hudson]{xiao2013worldkit}
+Xiao~R, Harrison~C, Hudson~S~E.
+\newblock Worldkit: rapid and easy creation of ad-hoc interactive applications
+  on everyday surfaces\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2013: 879-888.
 
-\bibitem[全国出版专业职业资格考试办公室(2004)]{chubanzhuanye2004}
-全国出版专业职业资格考试办公室.
-\newblock 全国出版专业职业资格考试辅导教材:
-  出版专业理论与实务•中级\allowbreak[M].
-\newblock 2014 版.
-\newblock 上海: 上海辞书出版社, 2004: 299-307.
+\bibitem[Chan et~al.(2013)Chan, Liang, Tsai, Cheng, Su, Chen, Cheng, and
+  Chen]{chan2013fingerpad}
+Chan~L, Liang~R~H, Tsai~M~C, et~al.
+\newblock Fingerpad: private and subtle interaction using
+  fingertips\allowbreak[C]//\allowbreak
+Proceedings of the 26th annual ACM symposium on User interface software and
+  technology.
+\newblock 2013: 255-260.
 
-\bibitem[{World Health Organization}(1970)]{who1970factors}
-{World Health Organization}.
-\newblock Factors regulating the immune response: Report of {WHO Scientific
-  Group}\allowbreak[R].
-\newblock Geneva: WHO, 1970.
+\bibitem[Chen et~al.(2013)Chen, Lyons, White, and Patel]{chen2013utrack}
+Chen~K~Y, Lyons~K, White~S, et~al.
+\newblock utrack: 3d input using two magnetic
+  sensors\allowbreak[C]//\allowbreak
+Proceedings of the 26th annual ACM symposium on User interface software and
+  technology.
+\newblock 2013: 237-244.
 
-\bibitem[Peebles(2001)]{peebles2001probability}
-Peebles~P~Z, Jr.
-\newblock Probability, random variables, and random signal
-  principles\allowbreak[M].
-\newblock 4th ed.
-\newblock New York: McGraw Hill, 2001.
+\bibitem[Parizi et~al.(2019)Parizi, Whitmire, and Patel]{parizi2019auraring}
+Parizi~F~S, Whitmire~E, Patel~S.
+\newblock Auraring: Precise electromagnetic finger tracking\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2019, 3\allowbreak (4): 1-28.
 
-\bibitem[白书农(1998)]{baishunong1998zhiwu}
-白书农.
-\newblock 植物开花研究\allowbreak[M]//\allowbreak
-李承森.
-\newblock 植物科学进展.
-\newblock 北京: 高等教育出版社, 1998: 146-163.
+\bibitem[Shi et~al.(2020)Shi, Zhang, Zhao, Cao, Sun, and
+  Nanayakkara]{shi2020ready}
+Shi~Y, Zhang~H, Zhao~K, et~al.
+\newblock Ready, steady, touch! sensing physical contact with a finger-mounted
+  imu\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2020, 4\allowbreak (2): 1-25.
 
-\bibitem[Weinstein et~al.(1974)Weinstein and Swertz]{weinstein1974pathogenic}
-Weinstein~L, Swertz~M~N.
-\newblock Pathogenic properties of invading
-  microorganism\allowbreak[M]//\allowbreak
-Sodeman~W~A, Jr, Sodeman~W~A.
-\newblock Pathologic physiology: mechanisms of disease.
-\newblock Philadelphia: Saunders, 1974: 745-772.
+\bibitem[Gu et~al.(2020)Gu, Yu, Li, Li, Wei, and Shi]{gu2020qwertyring}
+Gu~Y, Yu~C, Li~Z, et~al.
+\newblock Qwertyring: Text entry on physical surfaces using a
+  ring\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2020, 4\allowbreak (4): 1-29.
 
-\bibitem[韩吉人(1985)]{hanjiren1985lun}
-韩吉人.
-\newblock 论职工教育的特点\allowbreak[C]//\allowbreak
-中国职工教育研究会.
-\newblock 职工教育研究论文集.
-\newblock 北京: 人民教育出版社, 1985: 90-99.
+\bibitem[Meier et~al.(2021)Meier, Streli, Fender, and Holz]{meier2021tapld}
+Meier~M, Streli~P, Fender~A, et~al.
+\newblock Tapld: Rapid touch interaction in virtual reality using wearable
+  sensing\allowbreak[C]//\allowbreak
+2021 IEEE Virtual Reality and 3D User Interfaces (VR).
+\newblock IEEE, 2021: 519-528.
 
-\bibitem[中国地质学会(1936)]{dizhi1936dizhi}
-中国地质学会.
-\newblock 地质评论\allowbreak[J].
-\newblock 1936, 1\allowbreak (1)--.
-\newblock 北京: 地质出版社, 1936--.
+\bibitem[Oh et~al.(2017)Oh, Lee, Lee, and Park]{oh2017anywheretouch}
+Oh~J~Y, Lee~J, Lee~J~H, et~al.
+\newblock Anywheretouch: Finger tracking method on arbitrary surface using
+  nailed-mounted imu for mobile hmd\allowbreak[C]//\allowbreak
+International Conference on Human-Computer Interaction.
+\newblock Springer, 2017: 185-191.
 
-\bibitem[中国图书馆学会(1957)]{tushuguan1957tushuguanxue}
-中国图书馆学会.
-\newblock 图书馆学通讯\allowbreak[J].
-\newblock 1957\allowbreak (1)--1990\allowbreak (4).
-\newblock 北京: 北京图书馆, 1957--1990.
+\bibitem[Niikura et~al.(2014)Niikura, Watanabe, and
+  Ishikawa]{niikura2014anywhere}
+Niikura~T, Watanabe~Y, Ishikawa~M.
+\newblock Anywhere surface touch: utilizing any surface as an input
+  area\allowbreak[C]//\allowbreak
+Proceedings of the 5th Augmented Human International Conference.
+\newblock 2014: 1-8.
 
-\bibitem[{American Association for the Advancement of
-  Science}(1883)]{aaas1883science}
-{American Association for the Advancement of Science}.
-\newblock Science\allowbreak[J].
-\newblock 1883, 1\allowbreak (1)--.
-\newblock Washington, D.C.: American Association for the Advancement of
-  Science, 1883--.
+\bibitem[Liu et~al.(2020)Liu, Gu, Yin, Yu, Wang, Mi, and Shi]{liu2020keep}
+Liu~G, Gu~Y, Yin~Y, et~al.
+\newblock Keep the phone in your pocket: Enabling smartphone operation with an
+  imu ring for visually impaired people\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2020, 4\allowbreak (2): 1-23.
 
-\bibitem[傅刚\ 等(2000)傅刚, 赵承, and 李佳路]{fugang2000fengsha}
-傅刚, 赵承, 李佳路.
-\newblock 大风沙过后的思考\allowbreak[N/OL].
-\newblock 北京青年报, 2000-04-12\allowbreak (14)\allowbreak[2002-03-06].
-\newblock \url{http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm}.
+\bibitem[Downs(2005)]{downs2005using}
+Downs~R.
+\newblock Using resistive touch screens for human/machine
+  interface\allowbreak[J].
+\newblock Analog Applications Journal Q, 2005, 3: 5-10.
 
-\bibitem[萧钰(2001)]{xiaoyu2001chubanye}
-萧钰.
-\newblock 出版业信息化迈入快车道\allowbreak[EB/OL].
-\newblock \allowbreak(2001-12-19)\allowbreak[2002-04-15].
-\newblock \url{http://www.creader.com/news/20011219/200112190019.htm}.
+\bibitem[Hecht et~al.(2009)Hecht, Thomas, Hu, Ladous, Lam, Park, Irvin, and
+  Drzaic]{hecht2009carbon}
+Hecht~D~S, Thomas~D, Hu~L, et~al.
+\newblock Carbon-nanotube film on plastic as transparent electrode for
+  resistive touch screens\allowbreak[J].
+\newblock Journal of the Society for information Display, 2009, 17\allowbreak
+  (11): 941-946.
 
-\bibitem[{Online Computer Library Center, Inc}({[2000]})]{oclc2000about}
-{Online Computer Library Center, Inc}.
-\newblock About {OCLC}: History of cooperation\allowbreak[EB/OL].
-\newblock \allowbreak[2000-01-08].
-\newblock \url{http://www.oclc.org/about/cooperation.en.htm}.
+\bibitem[Lee et~al.(1985)Lee, Buxton, and Smith]{lee1985multi}
+Lee~S, Buxton~W, Smith~K.
+\newblock A multi-touch three dimensional touch-sensitive tablet\allowbreak[J].
+\newblock Acm Sigchi Bulletin, 1985, 16\allowbreak (4): 21-25.
 
-\bibitem[{Scitor Corporation}(1983)]{scitor2000project}
-{Scitor Corporation}.
-\newblock Project scheduler\allowbreak[CP/DK].
-\newblock Sunnyvale, Calif.: Scitor Corporation, 1983.
+\bibitem[Wang et~al.(2009)Wang and Ren]{wang2009empirical}
+Wang~F, Ren~X.
+\newblock Empirical evaluation for finger input properties in multi-touch
+  interaction\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2009: 1063-1072.
+
+\bibitem[Han(2005)]{han2005low}
+Han~J~Y.
+\newblock Low-cost multi-touch sensing through frustrated total internal
+  reflection\allowbreak[C]//\allowbreak
+Proceedings of the 18th annual ACM symposium on User interface software and
+  technology.
+\newblock 2005: 115-118.
+
+\bibitem[Matsushita et~al.(1997)Matsushita and
+  Rekimoto]{matsushita1997holowall}
+Matsushita~N, Rekimoto~J.
+\newblock Holowall: designing a finger, hand, body, and object sensitive
+  wall\allowbreak[C]//\allowbreak
+Proceedings of the 10th annual ACM symposium on User interface software and
+  technology.
+\newblock 1997: 209-210.
+
+\bibitem[Wilson(2004)]{wilson2004touchlight}
+Wilson~A~D.
+\newblock Touchlight: an imaging touch screen and display for gesture-based
+  interaction\allowbreak[C]//\allowbreak
+Proceedings of the 6th international conference on Multimodal interfaces.
+\newblock 2004: 69-76.
+
+\bibitem[Paradiso et~al.(2002)Paradiso, Leo, Checka, and
+  Hsiao]{paradiso2002passive}
+Paradiso~J~A, Leo~C~K, Checka~N, et~al.
+\newblock Passive acoustic sensing for tracking knocks atop large interactive
+  displays\allowbreak[C]//\allowbreak
+SENSORS, 2002 IEEE: volume~1.
+\newblock IEEE, 2002: 521-527.
+
+\bibitem[Xiao et~al.(2014)Xiao, Lew, Marsanico, Hariharan, Hudson, and
+  Harrison]{xiao2014toffee}
+Xiao~R, Lew~G, Marsanico~J, et~al.
+\newblock Toffee: enabling ad hoc, around-device interaction with acoustic
+  time-of-arrival correlation\allowbreak[C]//\allowbreak
+Proceedings of the 16th international conference on Human-computer interaction
+  with mobile devices \& services.
+\newblock 2014: 67-76.
+
+\bibitem[Heo et~al.(2011{\natexlab{a}})Heo and Lee]{heo2011forcetap}
+Heo~S, Lee~G.
+\newblock Forcetap: extending the input vocabulary of mobile touch screens by
+  adding tap gestures\allowbreak[C]//\allowbreak
+Proceedings of the 13th International Conference on Human Computer Interaction
+  with Mobile Devices and Services.
+\newblock 2011{\natexlab{a}}: 113-122.
+
+\bibitem[iwa()]{iwasaki2009expressive}
+\allowbreak[M].
+
+\bibitem[Kane et~al.(2009)Kane, Avrahami, Wobbrock, Harrison, Rea, Philipose,
+  and LaMarca]{kane2009bonfire}
+Kane~S~K, Avrahami~D, Wobbrock~J~O, et~al.
+\newblock Bonfire: a nomadic system for hybrid laptop-tabletop
+  interaction\allowbreak[C]//\allowbreak
+Proceedings of the 22nd annual ACM symposium on User interface software and
+  technology.
+\newblock 2009: 129-138.
+
+\bibitem[Masson et~al.(2017)Masson, Goguey, Malacria, and
+  Casiez]{masson2017whichfingers}
+Masson~D, Goguey~A, Malacria~S, et~al.
+\newblock Whichfingers: identifying fingers on touch surfaces and keyboards
+  using vibration sensors\allowbreak[C]//\allowbreak
+Proceedings of the 30th Annual ACM Symposium on User Interface Software and
+  Technology.
+\newblock 2017: 41-48.
+
+\bibitem[Stearns et~al.(2018)Stearns, Oh, Findlater, and
+  Froehlich]{stearns2018touchcam}
+Stearns~L, Oh~U, Findlater~L, et~al.
+\newblock Touchcam: Realtime recognition of location-specific on-body gestures
+  to support users with visual impairments\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2018, 1\allowbreak (4): 1-23.
+
+\bibitem[Fitts(1954)]{fitts1954information}
+Fitts~P~M.
+\newblock The information capacity of the human motor system in controlling the
+  amplitude of movement.\allowbreak[J].
+\newblock Journal of experimental psychology, 1954, 47\allowbreak (6): 381.
+
+\bibitem[MacKenzie(1995)]{mackenzie1995movement}
+MacKenzie~I~S.
+\newblock Movement time prediction in human-computer
+  interfaces\allowbreak[M]//\allowbreak
+Readings in human--computer interaction.
+\newblock Elsevier, 1995: 483-493.
+
+\bibitem[Wobbrock et~al.(2008)Wobbrock, Cutrell, Harada, and
+  MacKenzie]{wobbrock2008error}
+Wobbrock~J~O, Cutrell~E, Harada~S, et~al.
+\newblock An error model for pointing based on fitts'
+  law\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI conference on human factors in computing systems.
+\newblock 2008: 1613-1622.
+
+\bibitem[Ko et~al.(2020)Ko, Zhao, Kim, Ramakrishnan, Zhai, and
+  Bi]{ko2020modeling}
+Ko~Y~J, Zhao~H, Kim~Y, et~al.
+\newblock Modeling two dimensional touch pointing\allowbreak[C]//\allowbreak
+Proceedings of the 33rd Annual ACM Symposium on User Interface Software and
+  Technology.
+\newblock 2020: 858-868.
+
+\bibitem[Bi et~al.(2013)Bi, Li, and Zhai]{bi2013ffitts}
+Bi~X, Li~Y, Zhai~S.
+\newblock Ffitts law: modeling finger touch with fitts'
+  law\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2013: 1363-1372.
+
+\bibitem[B{\"u}tzler et~al.(2012)B{\"u}tzler, Vetter, Jochems, and
+  Schlick]{butzler2012bivariate}
+B{\"u}tzler~J, Vetter~S, Jochems~N, et~al.
+\newblock Bivariate pointing movements on large touch screens: Investigating
+  the validity of a refined fitts’ law\allowbreak[J].
+\newblock Work, 2012, 41\allowbreak (Supplement 1): 3526-3532.
+
+\bibitem[El~Lahib et~al.(2018)El~Lahib, Tekli, and Issa]{el2018evaluating}
+El~Lahib~M, Tekli~J, Issa~Y~B.
+\newblock Evaluating fitts’ law on vibrating touch-screen to improve visual
+  data accessibility for blind users\allowbreak[J].
+\newblock International Journal of Human-Computer Studies, 2018, 112: 16-27.
+
+\bibitem[Vetter et~al.(2011)Vetter, B{\"u}tzler, Jochems, and
+  Schlick]{vetter2011fitts}
+Vetter~S, B{\"u}tzler~J, Jochems~N, et~al.
+\newblock Fitts’ law in bivariate pointing on large touch screens:
+  Age-differentiated analysis of motion angle effects on movement times and
+  error rates\allowbreak[C]//\allowbreak
+International Conference on Universal Access in Human-Computer Interaction.
+\newblock Springer, 2011: 620-628.
+
+\bibitem[Xia et~al.(2014)Xia, Jota, McCanny, Yu, Forlines, Singh, and
+  Wigdor]{xia2014zero}
+Xia~H, Jota~R, McCanny~B, et~al.
+\newblock Zero-latency tapping: using hover information to predict touch
+  locations and eliminate touchdown latency\allowbreak[C]//\allowbreak
+Proceedings of the 27th annual ACM symposium on User interface software and
+  technology.
+\newblock 2014: 205-214.
+
+\bibitem[Uno et~al.(1989)Uno, Kawato, and Suzuki]{uno1989formation}
+Uno~Y, Kawato~M, Suzuki~R.
+\newblock Formation and control of optimal trajectory in human multijoint arm
+  movement\allowbreak[J].
+\newblock Biological cybernetics, 1989, 61\allowbreak (2): 89-101.
+
+\bibitem[Flash et~al.(1985)Flash and Hogan]{flash1985coordination}
+Flash~T, Hogan~N.
+\newblock The coordination of arm movements: an experimentally confirmed
+  mathematical model\allowbreak[J].
+\newblock Journal of neuroscience, 1985, 5\allowbreak (7): 1688-1703.
+
+\bibitem[Galloway et~al.(2002)Galloway and Koshland]{galloway2002general}
+Galloway~J~C, Koshland~G~F.
+\newblock General coordination of shoulder, elbow and wrist dynamics during
+  multijoint arm movements\allowbreak[J].
+\newblock Experimental brain research, 2002, 142\allowbreak (2): 163-180.
+
+\bibitem[Leigh et~al.(2014)Leigh, Forlines, Jota, Sanders, and
+  Wigdor]{leigh2014high}
+Leigh~D, Forlines~C, Jota~R, et~al.
+\newblock High rate, low-latency multi-touch sensing with simultaneous
+  orthogonal multiplexing\allowbreak[C]//\allowbreak
+Proceedings of the 27th annual ACM symposium on User interface software and
+  technology.
+\newblock 2014: 355-364.
+
+\bibitem[Gu et~al.(2021)Gu, Yu, Chen, Li, and Shi]{gu2021typeboard}
+Gu~Y, Yu~C, Chen~X, et~al.
+\newblock Typeboard: Identifying unintentional touch on pressure-sensitive
+  touchscreen keyboards\allowbreak[C]//\allowbreak
+The 34th Annual ACM Symposium on User Interface Software and Technology.
+\newblock 2021: 568-581.
+
+\bibitem[Xu et~al.(2020{\natexlab{a}})Xu, Yu, Wang, and Shi]{xu2020recognizing}
+Xu~X, Yu~C, Wang~Y, et~al.
+\newblock Recognizing unintentional touch on interactive
+  tabletop\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2020{\natexlab{a}}, 4\allowbreak (1): 1-24.
+
+\bibitem[Le et~al.(2018{\natexlab{a}})Le, Kosch, Bader, Mayer, and
+  Henze]{le2018palmtouch}
+Le~H~V, Kosch~T, Bader~P, et~al.
+\newblock Palmtouch: Using the palm as an additional input modality on
+  commodity smartphones\allowbreak[C]//\allowbreak
+Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems.
+\newblock 2018{\natexlab{a}}: 1-13.
+
+\bibitem[Nelson(1983)]{nelson1983physical}
+Nelson~W~L.
+\newblock Physical principles for economies of skilled movements\allowbreak[J].
+\newblock Biological cybernetics, 1983, 46\allowbreak (2): 135-147.
+
+\bibitem[Welford(1968)]{welford1968fundamentals}
+Welford~A~T.
+\newblock Fundamentals of skill.\allowbreak[J].
+\newblock 1968.
+
+\bibitem[Kopper et~al.(2010)Kopper, Bowman, Silva, and
+  McMahan]{kopper2010human}
+Kopper~R, Bowman~D~A, Silva~M~G, et~al.
+\newblock A human motor behavior model for distal pointing tasks\allowbreak[J].
+\newblock International journal of human-computer studies, 2010, 68\allowbreak
+  (10): 603-615.
+
+\bibitem[Kopp(1962)]{kopp1962pontryagin}
+Kopp~R~E.
+\newblock Pontryagin maximum principle\allowbreak[M]//\allowbreak
+Mathematics in Science and Engineering: volume~5.
+\newblock Elsevier, 1962: 255-279.
+
+\bibitem[Lewis et~al.(2012)Lewis, Vrabie, and Syrmos]{lewis2012optimal}
+Lewis~F~L, Vrabie~D, Syrmos~V~L.
+\newblock Optimal control\allowbreak[M].
+\newblock John Wiley \& Sons, 2012.
+
+\bibitem[Ross et~al.(2020)Ross, Proulx, and Karpenko]{ross2020optimal}
+Ross~I~M, Proulx~R~J, Karpenko~M.
+\newblock An optimal control theory for the traveling salesman problem and its
+  variants\allowbreak[J].
+\newblock arXiv preprint arXiv:2005.03186, 2020.
+
+\bibitem[Kamien et~al.(2012)Kamien and Schwartz]{kamien2012dynamic}
+Kamien~M~I, Schwartz~N~L.
+\newblock Dynamic optimization: the calculus of variations and optimal control
+  in economics and management\allowbreak[M].
+\newblock courier corporation, 2012.
+
+\bibitem[Ross et~al.(2016)Ross, Karpenko, and Proulx]{ross2016nonsmooth}
+Ross~I~M, Karpenko~M, Proulx~R~J.
+\newblock A nonsmooth calculus for solving some graph-theoretic control
+  problems\allowbreak[J].
+\newblock IFAC-PapersOnLine, 2016, 49\allowbreak (18): 462-467.
+
+\bibitem[Zhang(2012)]{zhang2012microsoft}
+Zhang~Z.
+\newblock Microsoft kinect sensor and its effect\allowbreak[J].
+\newblock IEEE multimedia, 2012, 19\allowbreak (2): 4-10.
+
+\bibitem[Humpherys et~al.(2012)Humpherys, Redd, and West]{humpherys2012fresh}
+Humpherys~J, Redd~P, West~J.
+\newblock A fresh look at the kalman filter\allowbreak[J].
+\newblock SIAM review, 2012, 54\allowbreak (4): 801-823.
+
+\bibitem[Lewis et~al.(1986)Lewis and Lewis]{lewis1986optimal}
+Lewis~F~L, Lewis~F.
+\newblock Optimal estimation: with an introduction to stochastic control
+  theory\allowbreak[M].
+\newblock Wiley New York, 1986.
+
+\bibitem[Bertsekas(1997)]{bertsekas1997nonlinear}
+Bertsekas~D~P.
+\newblock Nonlinear programming\allowbreak[J].
+\newblock Journal of the Operational Research Society, 1997, 48\allowbreak (3):
+  334-334.
+
+\bibitem[{\v{Z}}ilinskas(2006)]{vzilinskas2006practical}
+{\v{Z}}ilinskas~A.
+\newblock Practical mathematical optimization: An introduction to basic
+  optimization theory and classical and new gradient-based
+  algorithms\allowbreak[M].
+\newblock JSTOR, 2006.
+
+\bibitem[Bertsimas et~al.(1993)Bertsimas and
+  Tsitsiklis]{bertsimas1993simulated}
+Bertsimas~D, Tsitsiklis~J.
+\newblock Simulated annealing\allowbreak[J].
+\newblock Statistical science, 1993, 8\allowbreak (1): 10-15.
+
+\bibitem[Conn et~al.(2000)Conn, Gould, and Toint]{conn2000trust}
+Conn~A~R, Gould~N~I, Toint~P~L.
+\newblock Trust region methods\allowbreak[M].
+\newblock SIAM, 2000.
+
+\bibitem[Web(2021)]{Website-Morph}
+The sensel morph\allowbreak[J/OL].
+\newblock Morph Technology, 2021.
+\newblock \url{https://morph.sensel.com/}.
+
+\bibitem[Keselman et~al.(2017)Keselman, Iselin~Woodfill, Grunnet-Jepsen, and
+  Bhowmik]{keselman2017intel}
+Keselman~L, Iselin~Woodfill~J, Grunnet-Jepsen~A, et~al.
+\newblock Intel realsense stereoscopic depth cameras\allowbreak[C]//\allowbreak
+Proceedings of the IEEE conference on computer vision and pattern recognition
+  workshops.
+\newblock 2017: 1-10.
+
+\bibitem[Point(2011)]{point2011optitrack}
+Point~N.
+\newblock Optitrack\allowbreak[J].
+\newblock Natural Point, Inc, 2011.
+
+\bibitem[Madgwick(2010)]{madgwick2010efficient}
+Madgwick~S.
+\newblock An efficient orientation filter for inertial and inertial/magnetic
+  sensor arrays\allowbreak[J].
+\newblock Report x-io and University of Bristol (UK), 2010, 25: 113-118.
+
+\bibitem[Cao et~al.(2008)Cao, Wilson, Balakrishnan, Hinckley, and
+  Hudson]{cao2008shapetouch}
+Cao~X, Wilson~A~D, Balakrishnan~R, et~al.
+\newblock Shapetouch: Leveraging contact shape on interactive
+  surfaces\allowbreak[C]//\allowbreak
+2008 3rd IEEE international workshop on horizontal interactive human computer
+  systems.
+\newblock IEEE, 2008: 129-136.
+
+\bibitem[Harrison et~al.(2011{\natexlab{b}})Harrison, Schwarz, and
+  Hudson]{harrison2011tapsense}
+Harrison~C, Schwarz~J, Hudson~S~E.
+\newblock Tapsense: enhancing finger interaction on touch
+  surfaces\allowbreak[C]//\allowbreak
+Proceedings of the 24th annual ACM symposium on User interface software and
+  technology.
+\newblock 2011{\natexlab{b}}: 627-636.
+
+\bibitem[Ramos et~al.(2004)Ramos, Boulos, and Balakrishnan]{ramos2004pressure}
+Ramos~G, Boulos~M, Balakrishnan~R.
+\newblock Pressure widgets\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI conference on Human factors in computing systems.
+\newblock 2004: 487-494.
+
+\bibitem[Heo et~al.(2011{\natexlab{b}})Heo and Lee]{heo2011force}
+Heo~S, Lee~G.
+\newblock Force gestures: augmented touch screen gestures using normal and
+  tangential force\allowbreak[M]//\allowbreak
+CHI'11 Extended Abstracts on Human Factors in Computing Systems.
+\newblock 2011{\natexlab{b}}: 1909-1914.
+
+\bibitem[Roudaut et~al.(2009)Roudaut, Lecolinet, and
+  Guiard]{roudaut2009microrolls}
+Roudaut~A, Lecolinet~E, Guiard~Y.
+\newblock Microrolls: expanding touch-screen input vocabulary by distinguishing
+  rolls vs. slides of the thumb\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2009: 927-936.
+
+\bibitem[Xiao et~al.(2015)Xiao, Schwarz, and Harrison]{xiao2015estimating}
+Xiao~R, Schwarz~J, Harrison~C.
+\newblock Estimating 3d finger angle on commodity
+  touchscreens\allowbreak[C]//\allowbreak
+Proceedings of the 2015 International Conference on Interactive Tabletops \&
+  Surfaces.
+\newblock 2015: 47-50.
+
+\bibitem[Badger(2018)]{badger2018capacitive}
+Badger~P.
+\newblock Capacitive sensing library-arduino playground\allowbreak[J].
+\newblock 2018.
+
+\bibitem[De~Smedt et~al.(2016)De~Smedt, Wannous, and
+  Vandeborre]{de2016skeleton}
+De~Smedt~Q, Wannous~H, Vandeborre~J~P.
+\newblock Skeleton-based dynamic hand gesture
+  recognition\allowbreak[C]//\allowbreak
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
+  Workshops.
+\newblock 2016: 1-9.
+
+\bibitem[Ge et~al.(2018)Ge, Cai, Weng, and Yuan]{ge2018hand}
+Ge~L, Cai~Y, Weng~J, et~al.
+\newblock Hand pointnet: 3d hand pose estimation using point
+  sets\allowbreak[C]//\allowbreak
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+\newblock 2018: 8417-8426.
+
+\bibitem[Spurr et~al.(2018)Spurr, Song, Park, and Hilliges]{spurr2018cross}
+Spurr~A, Song~J, Park~S, et~al.
+\newblock Cross-modal deep variational hand pose
+  estimation\allowbreak[C]//\allowbreak
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+\newblock 2018: 89-98.
+
+\bibitem[Yuan et~al.(2018)Yuan, Garcia-Hernando, Stenger, Moon, Chang, Lee,
+  Molchanov, Kautz, Honari, Ge, et~al.]{yuan2018depth}
+Yuan~S, Garcia-Hernando~G, Stenger~B, et~al.
+\newblock Depth-based 3d hand pose estimation: From current achievements to
+  future goals\allowbreak[C]//\allowbreak
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+\newblock 2018: 2636-2645.
+
+\bibitem[Yu et~al.(2017)Yu, Gu, Yang, Yi, Luo, and Shi]{yu2017tap}
+Yu~C, Gu~Y, Yang~Z, et~al.
+\newblock Tap, dwell or gesture? exploring head-based text entry techniques for
+  hmds\allowbreak[C]//\allowbreak
+Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems.
+\newblock 2017: 4479-4488.
+
+\bibitem[Gupta et~al.(2019)Gupta, Ji, Yeo, Quigley, and
+  Vogel]{gupta2019rotoswype}
+Gupta~A, Ji~C, Yeo~H~S, et~al.
+\newblock Rotoswype: Word-gesture typing using a
+  ring\allowbreak[C]//\allowbreak
+Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems.
+\newblock 2019: 1-12.
+
+\bibitem[Grossman et~al.(2015)Grossman, Chen, and
+  Fitzmaurice]{grossman2015typing}
+Grossman~T, Chen~X~A, Fitzmaurice~G.
+\newblock Typing on glasses: Adapting text entry to smart
+  eyewear\allowbreak[C]//\allowbreak
+Proceedings of the 17th International Conference on Human-Computer Interaction
+  with Mobile Devices and Services.
+\newblock 2015: 144-152.
+
+\bibitem[Yu et~al.(2016)Yu, Sun, Zhong, Li, Zhao, and Shi]{yu2016one}
+Yu~C, Sun~K, Zhong~M, et~al.
+\newblock One-dimensional handwriting: Inputting letters and words on smart
+  glasses\allowbreak[C]//\allowbreak
+Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems.
+\newblock 2016: 71-82.
+
+\bibitem[Lu et~al.(2017)Lu, Yu, Yi, Shi, and Zhao]{lu2017blindtype}
+Lu~Y, Yu~C, Yi~X, et~al.
+\newblock Blindtype: Eyes-free text entry on handheld touchpad by leveraging
+  thumb's muscle memory\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2017, 1\allowbreak (2): 1-24.
+
+\bibitem[Kienzle et~al.(2014)Kienzle and Hinckley]{kienzle2014lightring}
+Kienzle~W, Hinckley~K.
+\newblock Lightring: always-available 2d input on any
+  surface\allowbreak[C]//\allowbreak
+Proceedings of the 27th annual ACM symposium on User interface software and
+  technology.
+\newblock 2014: 157-160.
+
+\bibitem[Markussen et~al.(2013)Markussen, Jakobsen, and
+  Hornb{\ae}k]{markussen2013selection}
+Markussen~A, Jakobsen~M~R, Hornb{\ae}k~K.
+\newblock Selection-based mid-air text entry on large
+  displays\allowbreak[C]//\allowbreak
+IFIP Conference on Human-Computer Interaction.
+\newblock Springer, 2013: 401-418.
+
+\bibitem[Schick et~al.(2012)Schick, Morlock, Amma, Schultz, and
+  Stiefelhagen]{schick2012vision}
+Schick~A, Morlock~D, Amma~C, et~al.
+\newblock Vision-based handwriting recognition for unrestricted text input in
+  mid-air\allowbreak[C]//\allowbreak
+Proceedings of the 14th ACM international conference on Multimodal interaction.
+\newblock 2012: 217-220.
+
+\bibitem[Oney et~al.(2013)Oney, Harrison, Ogan, and Wiese]{oney2013zoomboard}
+Oney~S, Harrison~C, Ogan~A, et~al.
+\newblock Zoomboard: a diminutive qwerty soft keyboard using iterative zooming
+  for ultra-small devices\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2013: 2799-2802.
+
+\bibitem[Yi et~al.(2017{\natexlab{b}})Yi, Yu, Xu, Bi, and Shi]{yi2017compass}
+Yi~X, Yu~C, Xu~W, et~al.
+\newblock Compass: Rotational keyboard on non-touch
+  smartwatches\allowbreak[C]//\allowbreak
+Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems.
+\newblock 2017{\natexlab{b}}: 705-715.
+
+\bibitem[Chen et~al.(2014)Chen, Grossman, and Fitzmaurice]{chen2014swipeboard}
+Chen~X, Grossman~T, Fitzmaurice~G.
+\newblock Swipeboard: a text entry technique for ultra-small interfaces that
+  supports novice to expert transitions\allowbreak[C]//\allowbreak
+Proceedings of the 27th annual ACM symposium on User interface software and
+  technology.
+\newblock 2014: 615-620.
+
+\bibitem[Hong et~al.(2015)Hong, Heo, Isokoski, and Lee]{hong2015splitboard}
+Hong~J, Heo~S, Isokoski~P, et~al.
+\newblock Splitboard: A simple split soft keyboard for wristwatch-sized touch
+  screens\allowbreak[C]//\allowbreak
+Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing
+  Systems.
+\newblock 2015: 1233-1236.
+
+\bibitem[Gupta et~al.(2016)Gupta and Balakrishnan]{gupta2016dualkey}
+Gupta~A, Balakrishnan~R.
+\newblock Dualkey: miniature screen text entry via finger
+  identification\allowbreak[C]//\allowbreak
+Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems.
+\newblock 2016: 59-70.
+
+\bibitem[Leiva et~al.(2015)Leiva, Sahami, Catala, Henze, and
+  Schmidt]{leiva2015text}
+Leiva~L~A, Sahami~A, Catala~A, et~al.
+\newblock Text entry on tiny qwerty soft keyboards\allowbreak[C]//\allowbreak
+Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing
+  Systems.
+\newblock 2015: 669-678.
+
+\bibitem[Shibata et~al.(2016)Shibata, Afergan, Kong, Yuksel, MacKenzie, and
+  Jacob]{shibata2016driftboard}
+Shibata~T, Afergan~D, Kong~D, et~al.
+\newblock Driftboard: A panning-based text entry technique for ultra-small
+  touchscreens\allowbreak[C]//\allowbreak
+Proceedings of the 29th Annual Symposium on User Interface Software and
+  Technology.
+\newblock 2016: 575-582.
+
+\bibitem[Gong et~al.(2018)Gong, Xu, Guo, Seyed, Chen, Bi, and
+  Yang]{gong2018wristext}
+Gong~J, Xu~Z, Guo~Q, et~al.
+\newblock Wristext: One-handed text entry on smartwatch using wrist
+  gestures\allowbreak[C]//\allowbreak
+Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems.
+\newblock 2018: 1-14.
+
+\bibitem[Ni et~al.(2011)Ni, Bowman, and North]{ni2011airstroke}
+Ni~T, Bowman~D, North~C.
+\newblock Airstroke: bringing unistroke text entry to freehand gesture
+  interfaces\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2011: 2473-2476.
+
+\bibitem[Kristensson et~al.(2004)Kristensson and Zhai]{kristensson2004shark2}
+Kristensson~P~O, Zhai~S.
+\newblock Shark2: a large vocabulary shorthand writing system for pen-based
+  computers\allowbreak[C]//\allowbreak
+Proceedings of the 17th annual ACM symposium on User interface software and
+  technology.
+\newblock 2004: 43-52.
+
+\bibitem[Markussen et~al.(2014)Markussen, Jakobsen, and
+  Hornb{\ae}k]{markussen2014vulture}
+Markussen~A, Jakobsen~M~R, Hornb{\ae}k~K.
+\newblock Vulture: a mid-air word-gesture keyboard\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2014: 1073-1082.
+
+\bibitem[Amma et~al.(2012)Amma, Georgi, and Schultz]{amma2012airwriting}
+Amma~C, Georgi~M, Schultz~T.
+\newblock Airwriting: Hands-free mobile text input by spotting and continuous
+  recognition of 3d-space handwriting with inertial
+  sensors\allowbreak[C]//\allowbreak
+2012 16th International Symposium on Wearable Computers.
+\newblock IEEE, 2012: 52-59.
+
+\bibitem[Zhou et~al.(2008)Zhou, Dong, Li, and Kwong]{zhou2008hand}
+Zhou~S, Dong~Z, Li~W~J, et~al.
+\newblock Hand-written character recognition using mems motion sensing
+  technology\allowbreak[C]//\allowbreak
+2008 IEEE/ASME International Conference on Advanced Intelligent Mechatronics.
+\newblock IEEE, 2008: 1418-1423.
+
+\bibitem[Devoe(1967)]{devoe1967alternatives}
+Devoe~D~B.
+\newblock Alternatives to handprinting in the manual entry of
+  data\allowbreak[J].
+\newblock IEEE Transactions on Human Factors in Electronics, 1967\allowbreak
+  (1): 21-32.
+
+\bibitem[Bajer et~al.(2012)Bajer, MacKenzie, and Baljko]{bajer2012huffman}
+Bajer~B, MacKenzie~I~S, Baljko~M.
+\newblock Huffman base-4 text entry glove (h4 teg)\allowbreak[C]//\allowbreak
+2012 16th International Symposium on Wearable Computers.
+\newblock IEEE, 2012: 41-47.
+
+\bibitem[Goldstein et~al.(1999)Goldstein and Chincholle]{goldstein1999finger}
+Goldstein~M, Chincholle~D.
+\newblock Finger-joint gesture wearable keypad\allowbreak[C]//\allowbreak
+second workshop on human computer interaction with mobile devices.
+\newblock 1999.
+
+\bibitem[Peshock et~al.(2014)Peshock, Duvall, and Dunne]{peshock2014argot}
+Peshock~A, Duvall~J, Dunne~L~E.
+\newblock Argot: A wearable one-handed keyboard
+  glove\allowbreak[C]//\allowbreak
+Proceedings of the 2014 ACM international symposium on wearable computers:
+  adjunct program.
+\newblock 2014: 87-92.
+
+\bibitem[Rosenberg et~al.(1999)Rosenberg and Slater]{rosenberg1999chording}
+Rosenberg~R, Slater~M.
+\newblock The chording glove: a glove-based text input device\allowbreak[J].
+\newblock IEEE Transactions on Systems, Man, and Cybernetics, Part C
+  (Applications and Reviews), 1999, 29\allowbreak (2): 186-191.
+
+\bibitem[Seibel(1962)]{seibel1962performance}
+Seibel~R.
+\newblock Performance on a five-finger chord keyboard.\allowbreak[J].
+\newblock Journal of Applied Psychology, 1962, 46\allowbreak (3): 165.
+
+\bibitem[Whitmire et~al.(2017)Whitmire, Jain, Jain, Nelson, Karkar, Patel, and
+  Goel]{whitmire2017digitouch}
+Whitmire~E, Jain~M, Jain~D, et~al.
+\newblock Digitouch: Reconfigurable thumb-to-finger input and text entry on
+  head-mounted displays\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2017, 1\allowbreak (3): 1-21.
+
+\bibitem[Gummeson et~al.(2014)Gummeson, Priyantha, and Liu]{gummeson2014energy}
+Gummeson~J, Priyantha~B, Liu~J.
+\newblock An energy harvesting wearable ring platform for gestureinput on
+  surfaces\allowbreak[C]//\allowbreak
+Proceedings of the 12th annual international conference on Mobile systems,
+  applications, and services.
+\newblock 2014: 162-175.
+
+\bibitem[Zhang et~al.(2017{\natexlab{a}})Zhang, Waghmare, Kundra, Pu,
+  Gilliland, Ploetz, Starner, Inan, and Abowd]{zhang2017fingersound}
+Zhang~C, Waghmare~A, Kundra~P, et~al.
+\newblock Fingersound: Recognizing unistroke thumb gestures using a
+  ring\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2017{\natexlab{a}}, 1\allowbreak (3): 1-19.
+
+\bibitem[Zhang et~al.(2018)Zhang, Xue, Waghmare, Meng, Jain, Han, Li, Cunefare,
+  Ploetz, Starner, et~al.]{zhang2018fingerping}
+Zhang~C, Xue~Q, Waghmare~A, et~al.
+\newblock Fingerping: Recognizing fine-grained hand poses using active acoustic
+  on-body sensing\allowbreak[C]//\allowbreak
+Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems.
+\newblock 2018: 1-10.
+
+\bibitem[Kim et~al.(2018)Kim, Delamare, and Irani]{kim2018thumbtext}
+Kim~J, Delamare~W, Irani~P.
+\newblock Thumbtext: Text entry for wearable devices using a miniature
+  ring\allowbreak[C]//\allowbreak
+Graphics Interface.
+\newblock 2018.
+
+\bibitem[Xu et~al.(2019)Xu, Wong, Gong, Wu, Nittala, Bi, Steimle, Fu, Zhu, and
+  Yang]{xu2019tiptext}
+Xu~Z, Wong~P~C, Gong~J, et~al.
+\newblock Tiptext: eyes-free text entry on a fingertip
+  keyboard\allowbreak[C]//\allowbreak
+Proceedings of the 32nd Annual ACM Symposium on User Interface Software and
+  Technology.
+\newblock 2019: 883-899.
+
+\bibitem[Nirjon et~al.(2015{\natexlab{a}})Nirjon, Gummeson, Gelb, and
+  Kim]{nirjon2015MobiSys}
+Nirjon~S, Gummeson~J, Gelb~D, et~al.
+\newblock Mobisys 2015 - proceedings of the 13th annual international
+  conference on mobile systems, applications, and services\allowbreak[J].
+\newblock 2015{\natexlab{a}}.
+
+\bibitem[Partridge et~al.(2002)Partridge, Chatterjee, Sazawal, Borriello, and
+  Want]{partridge2002tilttype}
+Partridge~K, Chatterjee~S, Sazawal~V, et~al.
+\newblock Tilttype: accelerometer-supported text entry for very small
+  devices\allowbreak[C]//\allowbreak
+Proceedings of the 15th annual ACM symposium on User interface software and
+  technology.
+\newblock 2002: 201-204.
+
+\bibitem[Zhong et~al.(2018)Zhong, Yu, Wang, Xu, and Shi]{zhong2018forceboard}
+Zhong~M, Yu~C, Wang~Q, et~al.
+\newblock Forceboard: Subtle text entry leveraging
+  pressure\allowbreak[C]//\allowbreak
+Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems.
+\newblock 2018: 1-10.
+
+\bibitem[Kurauchi et~al.(2016)Kurauchi, Feng, Joshi, Morimoto, and
+  Betke]{kurauchi2016eyeswipe}
+Kurauchi~A, Feng~W, Joshi~A, et~al.
+\newblock Eyeswipe: Dwell-free text entry using gaze
+  paths\allowbreak[C]//\allowbreak
+Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems.
+\newblock 2016: 1952-1956.
+
+\bibitem[Majaranta et~al.(2007)Majaranta and R{\"a}ih{\"a}]{majaranta2007text}
+Majaranta~P, R{\"a}ih{\"a}~K~J.
+\newblock Text entry by gaze: Utilizing eye-tracking\allowbreak[J].
+\newblock Text entry systems: Mobility, accessibility, universality, 2007:
+  175-187.
+
+\bibitem[Sarcar et~al.(2013)Sarcar, Panwar, and Chakraborty]{sarcar2013eyek}
+Sarcar~S, Panwar~P, Chakraborty~T.
+\newblock Eyek: an efficient dwell-free eye gaze-based text entry
+  system\allowbreak[C]//\allowbreak
+Proceedings of the 11th asia pacific conference on computer human interaction.
+\newblock 2013: 215-220.
+
+\bibitem[Shilkrot et~al.(2015)Shilkrot, Huber, Steimle, Nanayakkara, and
+  Maes]{shilkrot2015digital}
+Shilkrot~R, Huber~J, Steimle~J, et~al.
+\newblock Digital digits: A comprehensive survey of finger augmentation
+  devices\allowbreak[J].
+\newblock ACM Computing Surveys (CSUR), 2015, 48\allowbreak (2): 1-29.
+
+\bibitem[Gupta et~al.(2018)Gupta, Yang, and Balakrishnan]{gupta2018asterisk}
+Gupta~A, Yang~J, Balakrishnan~R.
+\newblock Asterisk and obelisk: Motion codes for passive
+  tagging\allowbreak[C]//\allowbreak
+Proceedings of the 31st Annual ACM Symposium on User Interface Software and
+  Technology.
+\newblock 2018: 725-736.
+
+\bibitem[Ogata et~al.(2012)Ogata, Sugiura, Osawa, and Imai]{ogata2012iring}
+Ogata~M, Sugiura~Y, Osawa~H, et~al.
+\newblock iring: intelligent ring using infrared
+  reflection\allowbreak[C]//\allowbreak
+Proceedings of the 25th annual ACM symposium on User interface software and
+  technology.
+\newblock 2012: 131-136.
+
+\bibitem[Tsukada et~al.(2004)Tsukada and Yasumura]{tsukada2004ubi}
+Tsukada~K, Yasumura~M.
+\newblock Ubi-finger: A simple gesture input device for mobile and ubiquitous
+  environment\allowbreak[J].
+\newblock Journal of Asian Information, Science and Life (AISL), 2004,
+  2\allowbreak (2): 111-120.
+
+\bibitem[Van~Kleek et~al.(2011)Van~Kleek, Styke, Schraefel, and
+  Karger]{van2011finders}
+Van~Kleek~M~G, Styke~W, Schraefel~M, et~al.
+\newblock Finders/keepers: a longitudinal study of people managing information
+  scraps in a micro-note tool\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI conference on human factors in computing systems.
+\newblock 2011: 2907-2916.
+
+\bibitem[Zhang et~al.(2017{\natexlab{b}})Zhang, Wang, Waghmare, Jain, Ploetz,
+  Inan, Starner, and Abowd]{zhang2017fingorbits}
+Zhang~C, Wang~X, Waghmare~A, et~al.
+\newblock Fingorbits: interaction with wearables using synchronized thumb
+  movements\allowbreak[C]//\allowbreak
+Proceedings of the 2017 ACM International Symposium on Wearable Computers.
+\newblock 2017{\natexlab{b}}: 62-65.
+
+\bibitem[Prattichizzo et~al.(2010)Prattichizzo, Chinello, Pacchierotti, and
+  Minamizawa]{prattichizzo2010remotouch}
+Prattichizzo~D, Chinello~F, Pacchierotti~C, et~al.
+\newblock Remotouch: A system for remote touch
+  experience\allowbreak[C]//\allowbreak
+19th International Symposium in Robot and Human Interactive Communication.
+\newblock IEEE, 2010: 676-679.
+
+\bibitem[Solazzi et~al.(2010)Solazzi, Frisoli, and
+  Bergamasco]{solazzi2010design}
+Solazzi~M, Frisoli~A, Bergamasco~M.
+\newblock Design of a novel finger haptic interface for contact and orientation
+  display\allowbreak[C]//\allowbreak
+2010 IEEE Haptics Symposium.
+\newblock IEEE, 2010: 129-132.
+
+\bibitem[Ashbrook et~al.(2011)Ashbrook, Baudisch, and White]{ashbrook2011nenya}
+Ashbrook~D, Baudisch~P, White~S.
+\newblock Nenya: subtle and eyes-free mobile input with a magnetically-tracked
+  finger ring\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2011: 2043-2046.
+
+\bibitem[Harrison et~al.(2009)Harrison and Hudson]{harrison2009abracadabra}
+Harrison~C, Hudson~S~E.
+\newblock Abracadabra: wireless, high-precision, and unpowered finger input for
+  very small mobile devices\allowbreak[C]//\allowbreak
+Proceedings of the 22nd annual ACM symposium on User interface software and
+  technology.
+\newblock 2009: 121-124.
+
+\bibitem[Nguyen et~al.(2015)Nguyen and Banic]{nguyen20153dtouch}
+Nguyen~A, Banic~A.
+\newblock 3dtouch: A wearable 3d input device for 3d
+  applications\allowbreak[M].
+\newblock IEEE, 2015.
+
+\bibitem[Zhang et~al.(2017{\natexlab{c}})Zhang, Xue, Waghmare, Jain, Pu,
+  Hersek, Lyons, Cunefare, Inan, and Abowd]{zhang2017soundtrak}
+Zhang~C, Xue~Q, Waghmare~A, et~al.
+\newblock Soundtrak: Continuous 3d tracking of a finger using active
+  acoustics\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2017{\natexlab{c}}, 1\allowbreak (2): 1-25.
+
+\bibitem[Chan et~al.(2015)Chan, Chen, Hsieh, Liang, and
+  Chen]{chan2015cyclopsring}
+Chan~L, Chen~Y~L, Hsieh~C~H, et~al.
+\newblock Cyclopsring: Enabling whole-hand and context-aware interactions
+  through a fisheye ring\allowbreak[C]//\allowbreak
+Proceedings of the 28th Annual ACM Symposium on User Interface Software \&
+  Technology.
+\newblock 2015: 549-556.
+
+\bibitem[Yang et~al.(2012)Yang, Grossman, Wigdor, and
+  Fitzmaurice]{yang2012magic}
+Yang~X~D, Grossman~T, Wigdor~D, et~al.
+\newblock Magic finger: always-available input through finger
+  instrumentation\allowbreak[C]//\allowbreak
+Proceedings of the 25th annual ACM symposium on User interface software and
+  technology.
+\newblock 2012: 147-156.
+
+\bibitem[Gordon et~al.(2016)Gordon, Ouyang, and Zhai]{gordon2016watchwriter}
+Gordon~M, Ouyang~T, Zhai~S.
+\newblock Watchwriter: Tap and gesture typing on a smartwatch miniature
+  keyboard with statistical decoding\allowbreak[C]//\allowbreak
+Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems.
+\newblock 2016: 3817-3821.
+
+\bibitem[Goodman et~al.(2002)Goodman, Venolia, Steury, and
+  Parker]{goodman2002language}
+Goodman~J, Venolia~G, Steury~K, et~al.
+\newblock Language modeling for soft keyboards\allowbreak[C]//\allowbreak
+Proceedings of the 7th international conference on Intelligent user interfaces.
+\newblock 2002: 194-195.
+
+\bibitem[Ide(2008)]{ide2008american}
+Ide~N.
+\newblock The american national corpus: Then, now, and
+  tomorrow\allowbreak[C]//\allowbreak
+Selected Proceedings of the 2008 HCSNet Workshop on Designing the Australian
+  National Corpus: Mustering Languages, Summerville, MA. Cascadilla Proceedings
+  Project.
+\newblock 2008.
+
+\bibitem[Azenkot et~al.(2012)Azenkot and Zhai]{azenkot2012touch}
+Azenkot~S, Zhai~S.
+\newblock Touch behavior with different postures on soft smartphone
+  keyboards\allowbreak[C]//\allowbreak
+Proceedings of the 14th international conference on Human-computer interaction
+  with mobile devices and services.
+\newblock 2012: 251-260.
+
+\bibitem[MacKenzie et~al.(2003)MacKenzie and Soukoreff]{mackenzie2003phrase}
+MacKenzie~I~S, Soukoreff~R~W.
+\newblock Phrase sets for evaluating text entry
+  techniques\allowbreak[C]//\allowbreak
+CHI'03 extended abstracts on Human factors in computing systems.
+\newblock 2003: 754-755.
+
+\bibitem[Findlater et~al.(2011)Findlater, Wobbrock, and
+  Wigdor]{findlater2011typing}
+Findlater~L, Wobbrock~J~O, Wigdor~D.
+\newblock Typing on flat glass: examining ten-finger expert typing patterns on
+  touch surfaces\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI conference on Human factors in computing systems.
+\newblock 2011: 2453-2462.
+
+\bibitem[Wobbrock et~al.(2011)Wobbrock, Findlater, Gergle, and
+  Higgins]{2011-Aligned}
+Wobbrock~J~O, Findlater~L, Gergle~D, et~al.
+\newblock The aligned rank transform for nonparametric factorial analyses using
+  only anova procedures\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI conference on human factors in computing systems.
+\newblock 2011: 143-146.
+
+\bibitem[Arif et~al.(2009)Arif and Stuerzlinger]{arif2009analysis}
+Arif~A~S, Stuerzlinger~W.
+\newblock Analysis of text entry performance metrics\allowbreak[C]//\allowbreak
+2009 IEEE Toronto International Conference Science and Technology for Humanity
+  (TIC-STH).
+\newblock IEEE, 2009: 100-105.
+
+\bibitem[Grandjean et~al.(1997)Grandjean and Kroemer]{grandjean1997fitting}
+Grandjean~E, Kroemer~K~H.
+\newblock Fitting the task to the human: a textbook of occupational
+  ergonomics\allowbreak[M].
+\newblock CRC press, 1997.
+
+\bibitem[Nirjon et~al.(2015{\natexlab{b}})Nirjon, Gummeson, Gelb, and
+  Kim]{nirjon2015typingring}
+Nirjon~S, Gummeson~J, Gelb~D, et~al.
+\newblock Typingring: A wearable ring platform for text
+  input\allowbreak[C]//\allowbreak
+Proceedings of the 13th Annual International Conference on Mobile Systems,
+  Applications, and Services.
+\newblock 2015{\natexlab{b}}: 227-239.
+
+\bibitem[Reyal et~al.(2015)Reyal, Zhai, and Kristensson]{reyal2015performance}
+Reyal~S, Zhai~S, Kristensson~P~O.
+\newblock Performance and user experience of touchscreen and gesture keyboards
+  in a lab setting and in the wild\allowbreak[C]//\allowbreak
+Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing
+  Systems.
+\newblock ACM, 2015: 679-688.
+
+\bibitem[Yajima et~al.(2018)Yajima and Hosobe]{2018-Japanese}
+Yajima~T, Hosobe~H.
+\newblock A japanese software keyboard for tablets that reduces user
+  fatigue\allowbreak[C]//\allowbreak
+2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC):
+  volume~1.
+\newblock IEEE, 2018: 339-346.
+
+\bibitem[Kim et~al.(2014)Kim, Aulck, Bartha, Harper, and
+  Johnson]{2014-Differences}
+Kim~J~H, Aulck~L, Bartha~M~C, et~al.
+\newblock Differences in typing forces, muscle activity, comfort, and typing
+  performance among virtual, notebook, and desktop keyboards\allowbreak[J].
+\newblock Applied ergonomics, 2014, 45\allowbreak (6): 1406-1413.
+
+\bibitem[Bonner et~al.(2010)Bonner, Brudvik, Abowd, and Edwards]{2010-NoLook}
+Bonner~M~N, Brudvik~J~T, Abowd~G~D, et~al.
+\newblock No-look notes: Accessible eyes-free multi-touch text
+  entry\allowbreak[C]//\allowbreak
+International Conference on Pervasive Computing.
+\newblock Springer, 2010: 409-426.
+
+\bibitem[Tinwala et~al.(2010)Tinwala and MacKenzie]{2010-Eyes}
+Tinwala~H, MacKenzie~I~S.
+\newblock Eyes-free text entry with error correction on touchscreen mobile
+  devices\allowbreak[C]//\allowbreak
+Proceedings of the 6th Nordic Conference on Human-Computer Interaction:
+  Extending Boundaries.
+\newblock 2010: 511-520.
+
+\bibitem[Sears(1991)]{1991-Improving}
+Sears~A.
+\newblock Improving touchscreen keyboards: design issues and a comparison with
+  other devices\allowbreak[J].
+\newblock Interacting with computers, 1991, 3\allowbreak (3): 253-269.
+
+\bibitem[Kim et~al.(2013)Kim, Son, Lee, Kim, and Lee]{2013-TapBoard}
+Kim~S, Son~J, Lee~G, et~al.
+\newblock Tapboard: making a touch screen keyboard more
+  touchable\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2013: 553-562.
+
+\bibitem[Crump et~al.(2010)Crump and Logan]{2010-Warning}
+Crump~M~J, Logan~G~D.
+\newblock Warning: This keyboard will deconstruct—the role of the keyboard in
+  skilled typewriting\allowbreak[J].
+\newblock Psychonomic bulletin \& review, 2010, 17\allowbreak (3): 394-399.
+
+\bibitem[Gordon et~al.(1995)Gordon and Soechting]{1995-Use}
+Gordon~A~M, Soechting~J~F.
+\newblock Use of tactile afferent information in sequential finger
+  movements\allowbreak[J].
+\newblock Experimental brain research, 1995, 107\allowbreak (2): 281-292.
+
+\bibitem[Logan et~al.(2011)Logan and Crump]{2011-Hierarchical}
+Logan~G~D, Crump~M~J.
+\newblock Hierarchical control of cognitive processes: The case for skilled
+  typewriting\allowbreak[M]//\allowbreak
+Psychology of learning and motivation: volume~54.
+\newblock Elsevier, 2011: 1-27.
+
+\bibitem[Ma et~al.(2015)Ma, Edge, Findlater, and Tan]{2015-Haptic}
+Ma~Z, Edge~D, Findlater~L, et~al.
+\newblock Haptic keyclick feedback improves typing speed and reduces typing
+  errors on a flat keyboard\allowbreak[C]//\allowbreak
+2015 IEEE World Haptics Conference (WHC).
+\newblock IEEE, 2015: 220-227.
+
+\bibitem[Web(2020)]{Website-Tactus}
+Tactus technology\allowbreak[J/OL].
+\newblock Tactus Technology, 2020.
+\newblock \url{http://www.tactustechnology.com/}.
+
+\bibitem[Amberg et~al.(2011)Amberg, Giraud, Semail, Olivo, Casiez, and
+  Roussel]{2011-Stimtac}
+Amberg~M, Giraud~F, Semail~B, et~al.
+\newblock Stimtac: a tactile input device with programmable
+  friction\allowbreak[C]//\allowbreak
+Proceedings of the 24th annual ACM symposium adjunct on User interface software
+  and technology.
+\newblock 2011: 7-8.
+
+\bibitem[Bau et~al.(2010)Bau, Poupyrev, Israr, and Harrison]{2010-TeslaTouch}
+Bau~O, Poupyrev~I, Israr~A, et~al.
+\newblock Teslatouch: electrovibration for touch
+  surfaces\allowbreak[C]//\allowbreak
+Proceedings of the 23nd annual ACM symposium on User interface software and
+  technology.
+\newblock 2010: 283-292.
+
+\bibitem[Levesque et~al.(2011)Levesque, Oram, MacLean, Cockburn, Marchuk,
+  Johnson, Colgate, and Peshkin]{2011-Enhancing}
+Levesque~V, Oram~L, MacLean~K, et~al.
+\newblock Enhancing physicality in touch interaction with programmable
+  friction\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2011: 2481-2490.
+
+\bibitem[Xu et~al.(2020{\natexlab{b}})Xu, Yu, Wang, and
+  Shi]{2020-TabletopTouch}
+Xu~X, Yu~C, Wang~Y, et~al.
+\newblock Recognizing unintentional touch on interactive
+  tabletop\allowbreak[J].
+\newblock Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies, 2020{\natexlab{b}}, 4\allowbreak (1): 1-24.
+
+\bibitem[Lu et~al.(2015)Lu and Li]{2015-GestureOn}
+Lu~H, Li~Y.
+\newblock Gesture on: Enabling always-on touch gestures for fast mobile access
+  from the device standby mode\allowbreak[C]//\allowbreak
+Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing
+  Systems.
+\newblock 2015: 3355-3364.
+
+\bibitem[Matero et~al.(2012)Matero and Colley]{matero2012identifying}
+Matero~J, Colley~A.
+\newblock Identifying unintentional touches on handheld touch screen
+  devices\allowbreak[C]//\allowbreak
+Proceedings of the designing interactive systems conference.
+\newblock 2012: 506-509.
+
+\bibitem[Annett et~al.(2014{\natexlab{a}})Annett, Anderson, Bischof, and
+  Gupta]{2014-PenMightier}
+Annett~M, Anderson~F, Bischof~W~F, et~al.
+\newblock The pen is mightier: understanding stylus behaviour while inking on
+  tablets\allowbreak[M]//\allowbreak
+Proceedings of Graphics Interface 2014.
+\newblock 2014{\natexlab{a}}: 193-200.
+
+\bibitem[Wang et~al.(2014)Wang, Zhao, Zhang, and Peng]{2018-UbiK}
+Wang~J, Zhao~K, Zhang~X, et~al.
+\newblock Ubiquitous keyboard for small mobile devices: harnessing multipath
+  fading for fine-grained keystroke localization\allowbreak[C]//\allowbreak
+Proceedings of the 12th annual international conference on Mobile systems,
+  applications, and services.
+\newblock 2014: 14-27.
+
+\bibitem[Le et~al.(2018{\natexlab{b}})Le, Kosch, Bader, Mayer, and
+  Henze]{2018-PalmTouch}
+Le~H~V, Kosch~T, Bader~P, et~al.
+\newblock Palmtouch: Using the palm as an additional input modality on
+  commodity smartphones\allowbreak[C]//\allowbreak
+Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems.
+\newblock 2018{\natexlab{b}}: 1-13.
+
+\bibitem[Durojaiye et~al.(2016)Durojaiye and Abzarian]{2016-Classification}
+Durojaiye~O~M, Abzarian~D.
+\newblock Classification of touch input as being unintended or
+  intended\allowbreak[M].
+\newblock Google Patents, 2016.
+
+\bibitem[Kaikuranta(2006)]{2006-PadUnint}
+Kaikuranta~T.
+\newblock Method for preventing unintended touch pad input due to accidental
+  touching\allowbreak[M].
+\newblock Google Patents, 2006.
+
+\bibitem[Rigazio et~al.(2013)Rigazio, Kryze, Morin, and Tiffany]{2013-System}
+Rigazio~L, Kryze~D, Morin~P, et~al.
+\newblock System and method for differentiating between intended and unintended
+  user input on a touchpad\allowbreak[M].
+\newblock Google Patents, 2013.
+
+\bibitem[Brakensiek et~al.(2013)Brakensiek and Bose]{2013-Precluding}
+Brakensiek~J, Bose~R.
+\newblock Method and apparatus for precluding operations associated with
+  accidental touch inputs\allowbreak[M].
+\newblock Google Patents, 2013.
+
+\bibitem[Popescu(2015)]{2015-TouchScreen}
+Popescu~V.
+\newblock Touch screen with unintended input prevention\allowbreak[M].
+\newblock Google Patents, 2015.
+
+\bibitem[Kim et~al.(2016)Kim and Lee]{2016-TapBoard2}
+Kim~S, Lee~G.
+\newblock Tapboard 2: Simple and effective touchpad-like interaction on a
+  multi-touch surface keyboard\allowbreak[C]//\allowbreak
+Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems.
+\newblock 2016: 5163-5168.
+
+\bibitem[Griffin(2013)]{2013-PalmInput}
+Griffin~J~T.
+\newblock Touch screen palm input rejection\allowbreak[M].
+\newblock Google Patents, 2013.
+
+\bibitem[Annett et~al.(2014{\natexlab{b}})Annett, Gupta, and
+  Bischof]{2014-PenUnint}
+Annett~M, Gupta~A, Bischof~W~F.
+\newblock Exploring and understanding unintended touch during direct pen
+  interaction\allowbreak[J].
+\newblock ACM Transactions on Computer-Human Interaction (TOCHI),
+  2014{\natexlab{b}}, 21\allowbreak (5): 1-39.
+
+\bibitem[Schwarz et~al.(2014)Schwarz, Xiao, Mankoff, Hudson, and
+  Harrison]{2014-PalmRejection}
+Schwarz~J, Xiao~R, Mankoff~J, et~al.
+\newblock Probabilistic palm rejection using spatiotemporal touch features and
+  iterative classification\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+\newblock 2014: 2009-2012.
+
+\bibitem[Le et~al.(2019)Le, Mayer, Steuerlein, and Henze]{2019-BeyondUnint}
+Le~H~V, Mayer~S, Steuerlein~B, et~al.
+\newblock Investigating unintended inputs for one-handed touch interaction
+  beyond the touchscreen\allowbreak[C]//\allowbreak
+Proceedings of the 21st International Conference on Human-Computer Interaction
+  with Mobile Devices and Services.
+\newblock 2019: 1-14.
+
+\bibitem[Goyins et~al.(2001)Goyins and Resman]{2001-PalmPressure}
+Goyins~G~S, Resman~M~F.
+\newblock Palm pressure rejection method and apparatus for
+  touchscreens\allowbreak[M].
+\newblock Google Patents, 2001.
+
+\bibitem[Chaparro et~al.(2010)Chaparro, Nguyen, Phan, Smith, and
+  Teves]{2010-Keyboard}
+Chaparro~B, Nguyen~B, Phan~M, et~al.
+\newblock Keyboard performance: ipad versus netbook\allowbreak[J].
+\newblock Usability News, 2010, 12\allowbreak (2): 1-9.
+
+\bibitem[Zhang et~al.(2019)Zhang, Pahud, Holz, Xia, Laput, McGuffin, Tu,
+  Mittereder, Su, Buxton, et~al.]{2019-PenTouch}
+Zhang~Y, Pahud~M, Holz~C, et~al.
+\newblock Sensing posture-aware pen+ touch interaction on
+  tablets\allowbreak[C]//\allowbreak
+Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems.
+\newblock 2019: 1-14.
+
+\bibitem[Matulic et~al.(2017)Matulic, Vogel, and Dachselt]{2017-HandContact}
+Matulic~F, Vogel~D, Dachselt~R.
+\newblock Hand contact shape recognition for posture-based tabletop widgets and
+  interaction\allowbreak[C]//\allowbreak
+Proceedings of the 2017 ACM International Conference on Interactive Surfaces
+  and Spaces.
+\newblock 2017: 3-11.
+
+\bibitem[Koura et~al.(2012)Koura, Suo, Kimura, Shibata, and
+  Tamura]{2012-Amazing}
+Koura~S, Suo~S, Kimura~A, et~al.
+\newblock Amazing forearm as an innovative interaction device and data storage
+  on tabletop display\allowbreak[C]//\allowbreak
+Proceedings of the 2012 ACM international conference on Interactive tabletops
+  and surfaces.
+\newblock 2012: 383-386.
+
+\bibitem[Fallot-Burghardt et~al.(2006)Fallot-Burghardt, Fjeld, Speirs,
+  Ziegenspeck, Krueger, and L{\"a}ubli]{2006-TouchType}
+Fallot-Burghardt~W, Fjeld~M, Speirs~C, et~al.
+\newblock Touch\&type: a novel pointing device for notebook
+  computers\allowbreak[C]//\allowbreak
+Proceedings of the 4th Nordic conference on Human-computer interaction:
+  changing roles.
+\newblock 2006: 465-468.
+
+\bibitem[Soukoreff et~al.(2003)Soukoreff and MacKenzie]{2003-Metrics}
+Soukoreff~R~W, MacKenzie~I~S.
+\newblock Metrics for text entry research: An evaluation of msd and kspc, and a
+  new unified error metric\allowbreak[C]//\allowbreak
+Proceedings of the SIGCHI conference on Human factors in computing systems.
+\newblock 2003: 113-120.
+
+\bibitem[Yi et~al.(2017{\natexlab{c}})Yi, Yu, Shi, Bi, and Shi]{2017-Word}
+Yi~X, Yu~C, Shi~W, et~al.
+\newblock Word clarity as a metric in sampling keyboard test
+  sets\allowbreak[C]//\allowbreak
+Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems.
+\newblock 2017{\natexlab{c}}: 4216-4228.
+
+\bibitem[Dhakal et~al.(2018)Dhakal, Feit, Kristensson, and
+  Oulasvirta]{2018-Observations}
+Dhakal~V, Feit~A~M, Kristensson~P~O, et~al.
+\newblock Observations on typing from 136 million
+  keystrokes\allowbreak[C]//\allowbreak
+Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems.
+\newblock 2018: 1-12.
+
+\bibitem[Attig et~al.(2017)Attig, Rauh, Franke, and Krems]{2017-System}
+Attig~C, Rauh~N, Franke~T, et~al.
+\newblock System latency guidelines then and now--is zero latency really
+  considered necessary?\allowbreak[C]//\allowbreak
+International Conference on Engineering Psychology and Cognitive Ergonomics.
+\newblock Springer, 2017: 3-14.
+
+\bibitem[Kaaresoja et~al.(2014)Kaaresoja, Brewster, and Lantz]{2014-Towards}
+Kaaresoja~T, Brewster~S, Lantz~V.
+\newblock Towards the temporally perfect virtual button: touch-feedback
+  simultaneity and perceived quality in mobile touchscreen press
+  interactions\allowbreak[J].
+\newblock ACM Transactions on Applied Perception (TAP), 2014, 11\allowbreak
+  (2): 1-25.
+
+\bibitem[Kaaresoja(2016)]{2016-Latency}
+Kaaresoja~T~J.
+\newblock Latency guidelines for touchscreen virtual button
+  feedback\allowbreak[D].
+\newblock University of Glasgow, 2016.
+
+\bibitem[Web(2011)]{Website-Typing}
+Typing speed measurement.\allowbreak[J/OL].
+\newblock Typing Speed Measurement., 2011.
+\newblock \url{http://www.51dzt.com/test/}.
 
 \end{thebibliography}

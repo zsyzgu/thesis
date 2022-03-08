@@ -1,37 +1,193 @@
 \contentsline {chapter}{摘\hskip 1em\relax 要}{I}{section*.9}% 
 \contentsline {chapter}{Abstract}{III}{section*.11}% 
 \contentsline {chapter}{目\hskip 1em\relax 录}{IV}{section*.13}% 
-\contentsline {chapter}{插图和附表清单}{VI}{section*.15}% 
-\contentsline {chapter}{符号和缩略语说明}{VII}{section*.17}% 
+\contentsline {chapter}{插图和附表清单}{VIII}{section*.15}% 
+\contentsline {chapter}{符号和缩略语说明}{XI}{section*.17}% 
 \contentsline {chapter}{\numberline {第1章}引言}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}选题背景及意义}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}触摸交互的重要性}{1}{subsection.1.1.1}% 
-\contentsline {subsection}{\numberline {1.1.2}触摸交互的改进方向}{2}{subsection.1.1.2}% 
-\contentsline {section}{\numberline {1.2}研究现状}{3}{section.1.2}% 
-\contentsline {subsection}{\numberline {1.2.1}电容触摸屏}{3}{subsection.1.2.1}% 
-\contentsline {subsection}{\numberline {1.2.2}基于运动传感的触摸感知技术}{3}{subsection.1.2.2}% 
-\contentsline {section}{\numberline {1.3}研究内容}{4}{section.1.3}% 
-\contentsline {section}{\numberline {1.4}主要研究成果}{4}{section.1.4}% 
-\contentsline {section}{\numberline {1.5}论文组织结构}{6}{section.1.5}% 
-\contentsline {chapter}{\numberline {第2章}基于最优控制理论的触摸运动模型}{8}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}触摸运动的数学模型}{8}{section.2.1}% 
-\contentsline {section}{\numberline {2.2}触摸运动的计算模型}{11}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}卡尔曼滤波}{11}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}最小二乘拟合}{11}{subsection.2.2.2}% 
-\contentsline {section}{\numberline {2.3}触摸运动的应用}{13}{section.2.3}% 
-\contentsline {chapter}{\numberline {第3章}基于运动传感指环的低延迟触摸感知技术}{14}{chapter.3}% 
-\contentsline {chapter}{\numberline {第4章}面向连续触摸输入的防误触技术}{15}{chapter.4}% 
+\contentsline {subsection}{\numberline {1.1.2}触摸交互的改进空间}{2}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.3}为什么要建立触摸运动模型？}{3}{subsection.1.1.3}% 
+\contentsline {section}{\numberline {1.2}研究现状}{4}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}触摸交互技术}{4}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}触摸交互模型}{5}{subsection.1.2.2}% 
+\contentsline {section}{\numberline {1.3}研究内容}{6}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}触摸运动模型的数学表达}{7}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.2}触摸运动模型的计算方法}{7}{subsection.1.3.2}% 
+\contentsline {subsection}{\numberline {1.3.3}基于触摸运动模型的交互优化技术}{8}{subsection.1.3.3}% 
+\contentsline {section}{\numberline {1.4}主要研究成果}{9}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}论文组织结构}{11}{section.1.5}% 
+\contentsline {chapter}{\numberline {第2章}基于最优控制理论的触摸运动模型}{12}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}触摸运动模型的数学表达}{12}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}单位触摸运动方程}{14}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}触摸运动方程的推导过程}{15}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}更复杂的触摸运动方程}{16}{subsection.2.1.3}% 
+\contentsline {section}{\numberline {2.2}触摸运动模型的计算方法}{17}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}卡尔曼滤波}{17}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}最小二乘拟合}{19}{subsection.2.2.2}% 
+\contentsline {section}{\numberline {2.3}触摸运动模型的实验评估}{20}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}数据采集实验}{20}{subsection.2.3.1}% 
+\contentsline {subsubsection}{\numberline {2.3.1.1}实验设计和过程}{20}{subsubsection.2.3.1.1}% 
+\contentsline {subsubsection}{\numberline {2.3.1.2}实验设备}{22}{subsubsection.2.3.1.2}% 
+\contentsline {subsubsection}{\numberline {2.3.1.3}实验数据统计}{23}{subsubsection.2.3.1.3}% 
+\contentsline {subsection}{\numberline {2.3.2}无约束运动模型的合理性}{24}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.3}触摸运动模型的拟合精度}{24}{subsection.2.3.3}% 
+\contentsline {section}{\numberline {2.4}触摸运动模型的指导意义}{26}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}触摸检测}{27}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}触摸手势识别}{28}{subsection.2.4.2}% 
+\contentsline {subsection}{\numberline {2.4.3}触摸意图推理}{29}{subsection.2.4.3}% 
+\contentsline {subsubsection}{\numberline {2.4.3.1}基于触摸运动模型的触摸意图推理}{29}{subsubsection.2.4.3.1}% 
+\contentsline {subsubsection}{\numberline {2.4.3.2}触摸过程与触摸力度之间的关系}{29}{subsubsection.2.4.3.2}% 
+\contentsline {subsubsection}{\numberline {2.4.3.3}面向平板电脑键盘的意图推理}{31}{subsubsection.2.4.3.3}% 
+\contentsline {section}{\numberline {2.5}本章小结}{31}{section.2.5}% 
+\contentsline {chapter}{\numberline {第3章}指环上的高准确低延迟触摸检测技术}{32}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}引言}{32}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}相关工作}{34}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}基于视觉的无源表面触摸交互}{34}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}基于震动的无源表面触摸交互}{34}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}触摸姿态}{35}{subsection.3.2.3}% 
+\contentsline {section}{\numberline {3.3}指环触摸交互的自然性研究}{35}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}实验一A：触摸姿态主观喜好程度调研}{35}{subsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.1.1}触摸姿态全集}{36}{subsubsection.3.3.1.1}% 
+\contentsline {subsubsection}{\numberline {3.3.1.2}实验设计和过程}{36}{subsubsection.3.3.1.2}% 
+\contentsline {subsubsection}{\numberline {3.3.1.3}实验结果}{37}{subsubsection.3.3.1.3}% 
+\contentsline {subsection}{\numberline {3.3.2}实验一B：指环佩戴位置主观喜好程度调研}{38}{subsection.3.3.2}% 
+\contentsline {section}{\numberline {3.4}基于机器学习的触摸检测技术}{39}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}实验二：收集触摸数据}{39}{subsection.3.4.1}% 
+\contentsline {subsubsection}{\numberline {3.4.1.1}实验设计和过程}{40}{subsubsection.3.4.1.1}% 
+\contentsline {subsubsection}{\numberline {3.4.1.2}实验设备}{40}{subsubsection.3.4.1.2}% 
+\contentsline {subsubsection}{\numberline {3.4.1.3}实验数据统计}{41}{subsubsection.3.4.1.3}% 
+\contentsline {subsection}{\numberline {3.4.2}基于机器学习的触摸姿态分类}{42}{subsection.3.4.2}% 
+\contentsline {subsubsection}{\numberline {3.4.2.1}技术方案}{42}{subsubsection.3.4.2.1}% 
+\contentsline {subsubsection}{\numberline {3.4.2.2}评测结果}{42}{subsubsection.3.4.2.2}% 
+\contentsline {subsection}{\numberline {3.4.3}基于机器学习的触摸检测技术}{42}{subsection.3.4.3}% 
+\contentsline {subsubsection}{\numberline {3.4.3.1}数据分析}{43}{subsubsection.3.4.3.1}% 
+\contentsline {subsubsection}{\numberline {3.4.3.2}触摸检测分类器}{44}{subsubsection.3.4.3.2}% 
+\contentsline {subsubsection}{\numberline {3.4.3.3}检测延迟优化}{45}{subsubsection.3.4.3.3}% 
+\contentsline {subsubsection}{\numberline {3.4.3.4}指环佩戴位置对比}{45}{subsubsection.3.4.3.4}% 
+\contentsline {subsubsection}{\numberline {3.4.3.5}综合评测}{47}{subsubsection.3.4.3.5}% 
+\contentsline {subsubsection}{\numberline {3.4.3.6}触摸检测算法流程}{48}{subsubsection.3.4.3.6}% 
+\contentsline {section}{\numberline {3.5}基于触摸运动模型的触摸检测技术}{49}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}基于触摸运动模型的触摸检测技术}{49}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.2}实验三：评测本节触摸检测技术}{52}{subsection.3.5.2}% 
+\contentsline {subsubsection}{\numberline {3.5.2.1}实验设计和过程}{52}{subsubsection.3.5.2.1}% 
+\contentsline {subsubsection}{\numberline {3.5.2.2}实验结果}{52}{subsubsection.3.5.2.2}% 
+\contentsline {section}{\numberline {3.6}本章小结}{54}{section.3.6}% 
+\contentsline {chapter}{\numberline {第4章}指环上的触摸手势识别与打字技术}{55}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}引言}{55}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}相关工作}{57}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}可穿戴文本输入}{57}{subsection.4.2.1}% 
+\contentsline {subsubsection}{\numberline {4.2.1.1}智能手表文本输入}{57}{subsubsection.4.2.1.1}% 
+\contentsline {subsubsection}{\numberline {4.2.1.2}空中手势文本输入}{58}{subsubsection.4.2.1.2}% 
+\contentsline {subsubsection}{\numberline {4.2.1.3}智能手套文本输入}{58}{subsubsection.4.2.1.3}% 
+\contentsline {subsubsection}{\numberline {4.2.1.4}智能指环文本输入}{58}{subsubsection.4.2.1.4}% 
+\contentsline {subsubsection}{\numberline {4.2.1.5}可穿戴文本输入小结}{59}{subsubsection.4.2.1.5}% 
+\contentsline {subsection}{\numberline {4.2.2}智能指环交互}{59}{subsection.4.2.2}% 
+\contentsline {subsubsection}{\numberline {4.2.2.1}手型跟踪技术}{59}{subsubsection.4.2.2.1}% 
+\contentsline {subsubsection}{\numberline {4.2.2.2}触摸识别技术}{60}{subsubsection.4.2.2.2}% 
+\contentsline {subsubsection}{\numberline {4.2.2.3}智能指环交互小结}{60}{subsubsection.4.2.2.3}% 
+\contentsline {subsection}{\numberline {4.2.3}贝叶斯解码器}{60}{subsection.4.2.3}% 
+\contentsline {section}{\numberline {4.3}智能打字指环的交互设计}{61}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}键盘布局}{61}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}交互流程}{62}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}设计准则}{62}{subsection.4.3.3}% 
+\contentsline {section}{\numberline {4.4}指环上的触摸手势识别}{63}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}实验一：收集触摸手势数据}{63}{subsection.4.4.1}% 
+\contentsline {subsubsection}{\numberline {4.4.1.1}实验设计和过程}{64}{subsubsection.4.4.1.1}% 
+\contentsline {subsubsection}{\numberline {4.4.1.2}实验设备}{65}{subsubsection.4.4.1.2}% 
+\contentsline {subsection}{\numberline {4.4.2}触摸手势识别技术}{65}{subsection.4.4.2}% 
+\contentsline {subsubsection}{\numberline {4.4.2.1}触摸检测}{65}{subsubsection.4.4.2.1}% 
+\contentsline {subsubsection}{\numberline {4.4.2.2}触摸与抬起的相关性}{66}{subsubsection.4.4.2.2}% 
+\contentsline {subsubsection}{\numberline {4.4.2.3}触摸与抬起的运动速度}{67}{subsubsection.4.4.2.3}% 
+\contentsline {subsubsection}{\numberline {4.4.2.4}抬起事件识别}{68}{subsubsection.4.4.2.4}% 
+\contentsline {subsubsection}{\numberline {4.4.2.5}长按}{69}{subsubsection.4.4.2.5}% 
+\contentsline {subsubsection}{\numberline {4.4.2.6}左滑和右滑}{70}{subsubsection.4.4.2.6}% 
+\contentsline {subsubsection}{\numberline {4.4.2.7}不同表面的触摸手势识别}{70}{subsubsection.4.4.2.7}% 
+\contentsline {subsubsection}{\numberline {4.4.2.8}降采样}{72}{subsubsection.4.4.2.8}% 
+\contentsline {section}{\numberline {4.5}智能打字指环的解码器设计}{72}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}实验二：收集打字数据}{72}{subsection.4.5.1}% 
+\contentsline {subsubsection}{\numberline {4.5.1.1}实验设计和过程}{73}{subsubsection.4.5.1.1}% 
+\contentsline {subsubsection}{\numberline {4.5.1.2}数据处理}{74}{subsubsection.4.5.1.2}% 
+\contentsline {subsubsection}{\numberline {4.5.1.3}实验结果}{74}{subsubsection.4.5.1.3}% 
+\contentsline {subsection}{\numberline {4.5.2}智能打字指环单词解码器}{76}{subsection.4.5.2}% 
+\contentsline {subsubsection}{\numberline {4.5.2.1}触点模型}{76}{subsubsection.4.5.2.1}% 
+\contentsline {subsubsection}{\numberline {4.5.2.2}语言模型}{77}{subsubsection.4.5.2.2}% 
+\contentsline {subsubsection}{\numberline {4.5.2.3}用户个性化}{78}{subsubsection.4.5.2.3}% 
+\contentsline {section}{\numberline {4.6}智能打字指环的评测}{79}{section.4.6}% 
+\contentsline {subsection}{\numberline {4.6.1}实验三：智能打字指环的评测实验}{79}{subsection.4.6.1}% 
+\contentsline {subsubsection}{\numberline {4.6.1.1}实验设计和过程}{79}{subsubsection.4.6.1.1}% 
+\contentsline {subsection}{\numberline {4.6.2}智能打字指环的评测结果}{80}{subsection.4.6.2}% 
+\contentsline {subsubsection}{\numberline {4.6.2.1}打字速度}{80}{subsubsection.4.6.2.1}% 
+\contentsline {subsubsection}{\numberline {4.6.2.2}打字错误率}{81}{subsubsection.4.6.2.2}% 
+\contentsline {subsubsection}{\numberline {4.6.2.3}解码器准确率}{82}{subsubsection.4.6.2.3}% 
+\contentsline {subsubsection}{\numberline {4.6.2.4}时间构成}{82}{subsubsection.4.6.2.4}% 
+\contentsline {subsubsection}{\numberline {4.6.2.5}主观评分和反馈}{84}{subsubsection.4.6.2.5}% 
+\contentsline {subsection}{\numberline {4.6.3}与手机打字速度进行比较}{85}{subsection.4.6.3}% 
+\contentsline {subsection}{\numberline {4.6.4}对评测结果的讨论}{86}{subsection.4.6.4}% 
+\contentsline {subsubsection}{\numberline {4.6.4.1}与其它文本输入技术比较}{86}{subsubsection.4.6.4.1}% 
+\contentsline {subsubsection}{\numberline {4.6.4.2}学习效应}{86}{subsubsection.4.6.4.2}% 
+\contentsline {subsubsection}{\numberline {4.6.4.3}通用化模型，还是个性化模型？}{87}{subsubsection.4.6.4.3}% 
+\contentsline {subsubsection}{\numberline {4.6.4.4}若指环佩戴在食指第一指骨会怎么样？}{87}{subsubsection.4.6.4.4}% 
+\contentsline {subsubsection}{\numberline {4.6.4.5}智能打字指环在其它无源表面上的表现}{88}{subsubsection.4.6.4.5}% 
+\contentsline {subsubsection}{\numberline {4.6.4.6}电量问题}{88}{subsubsection.4.6.4.6}% 
+\contentsline {section}{\numberline {4.7}本章小结}{89}{section.4.7}% 
+\contentsline {chapter}{\numberline {第5章}平板电脑上的触摸意图推理键盘}{90}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}引言}{90}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}相关工作}{92}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}触摸交互中的防误触技术}{92}{subsection.5.2.1}% 
+\contentsline {subsubsection}{\numberline {5.2.1.1}不同应用场景下的防误触技术}{92}{subsubsection.5.2.1.1}% 
+\contentsline {subsubsection}{\numberline {5.2.1.2}不同传感技术下的防误触技术}{93}{subsubsection.5.2.1.2}% 
+\contentsline {subsubsection}{\numberline {5.2.1.3}小结}{94}{subsubsection.5.2.1.3}% 
+\contentsline {subsection}{\numberline {5.2.2}触摸交互防误触技术的作用}{94}{subsection.5.2.2}% 
+\contentsline {subsubsection}{\numberline {5.2.2.1}弥补触摸屏文本输入之于物理键盘的不足}{94}{subsubsection.5.2.2.1}% 
+\contentsline {subsubsection}{\numberline {5.2.2.2}将误触输入作为有用的交互信息}{94}{subsubsection.5.2.2.2}% 
+\contentsline {section}{\numberline {5.3}初版防误触键盘}{95}{section.5.3}% 
+\contentsline {subsection}{\numberline {5.3.1}实验一：收集无反馈键盘上的打字数据}{95}{subsection.5.3.1}% 
+\contentsline {subsubsection}{\numberline {5.3.1.1}被试}{95}{subsubsection.5.3.1.1}% 
+\contentsline {subsubsection}{\numberline {5.3.1.2}实验设备}{95}{subsubsection.5.3.1.2}% 
+\contentsline {subsubsection}{\numberline {5.3.1.3}实验设计和过程}{96}{subsubsection.5.3.1.3}% 
+\contentsline {subsection}{\numberline {5.3.2}基于打字行为设计初版防误触键盘}{98}{subsection.5.3.2}% 
+\contentsline {subsubsection}{\numberline {5.3.2.1}阶段一：用简单模型检查标注效果}{99}{subsubsection.5.3.2.1}% 
+\contentsline {subsubsection}{\numberline {5.3.2.2}阶段二：过滤多指休息行为导致的误触}{99}{subsubsection.5.3.2.2}% 
+\contentsline {subsubsection}{\numberline {5.3.2.3}阶段三：理解用户打字行为并深入改进技术}{100}{subsubsection.5.3.2.3}% 
+\contentsline {section}{\numberline {5.4}终版防误触键盘}{103}{section.5.4}% 
+\contentsline {subsection}{\numberline {5.4.1}实验二：收集初版防误触键盘上的打字数据}{103}{subsection.5.4.1}% 
+\contentsline {subsubsection}{\numberline {5.4.1.1}被试}{103}{subsubsection.5.4.1.1}% 
+\contentsline {subsubsection}{\numberline {5.4.1.2}实验设计和过程}{103}{subsubsection.5.4.1.2}% 
+\contentsline {subsection}{\numberline {5.4.2}基于打字行为设计终版防误触键盘}{104}{subsection.5.4.2}% 
+\contentsline {subsection}{\numberline {5.4.3}关于防误触键盘的讨论}{106}{subsection.5.4.3}% 
+\contentsline {subsubsection}{\numberline {5.4.3.1}与先前工作的对比}{106}{subsubsection.5.4.3.1}% 
+\contentsline {subsubsection}{\numberline {5.4.3.2}用户差异}{106}{subsubsection.5.4.3.2}% 
+\contentsline {subsubsection}{\numberline {5.4.3.3}任务差异}{107}{subsubsection.5.4.3.3}% 
+\contentsline {subsubsection}{\numberline {5.4.3.4}为什么要采样100毫秒的数据来判别误触？}{107}{subsubsection.5.4.3.4}% 
+\contentsline {subsubsection}{\numberline {5.4.3.5}本技术是否适用于更少的传感器？}{108}{subsubsection.5.4.3.5}% 
+\contentsline {subsubsection}{\numberline {5.4.3.6}迭代方法}{109}{subsubsection.5.4.3.6}% 
+\contentsline {subsubsection}{\numberline {5.4.3.7}为什么不采用深度学习?}{109}{subsubsection.5.4.3.7}% 
+\contentsline {subsubsection}{\numberline {5.4.3.8}提高防误触能力其它方法}{109}{subsubsection.5.4.3.8}% 
+\contentsline {section}{\numberline {5.5}防误触键盘的评测}{110}{section.5.5}% 
+\contentsline {subsection}{\numberline {5.5.1}实验三：防误触键盘的评测实验}{110}{subsection.5.5.1}% 
+\contentsline {subsubsection}{\numberline {5.5.1.1}被试}{110}{subsubsection.5.5.1.1}% 
+\contentsline {subsubsection}{\numberline {5.5.1.2}实验设计和过程}{110}{subsubsection.5.5.1.2}% 
+\contentsline {subsection}{\numberline {5.5.2}防误触键盘的评测结果}{111}{subsection.5.5.2}% 
+\contentsline {subsubsection}{\numberline {5.5.2.1}打字速度}{111}{subsubsection.5.5.2.1}% 
+\contentsline {subsubsection}{\numberline {5.5.2.2}打字错误率}{112}{subsubsection.5.5.2.2}% 
+\contentsline {subsubsection}{\numberline {5.5.2.3}时间构成}{113}{subsubsection.5.5.2.3}% 
+\contentsline {subsubsection}{\numberline {5.5.2.4}触点位置}{114}{subsubsection.5.5.2.4}% 
+\contentsline {subsubsection}{\numberline {5.5.2.5}主观评分}{115}{subsubsection.5.5.2.5}% 
+\contentsline {subsubsection}{\numberline {5.5.2.6}实验结果小结}{115}{subsubsection.5.5.2.6}% 
+\contentsline {section}{\numberline {5.6}本章小结}{116}{section.5.6}% 
+\contentsline {chapter}{\numberline {第6章}结论和展望}{117}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}结论}{117}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}展望}{117}{section.6.2}% 
 \setcounter {tocdepth}{0}
-\contentsline {chapter}{参考文献}{16}{section*.22}% 
+\contentsline {chapter}{参考文献}{118}{section*.91}% 
 \setcounter {tocdepth}{0}
-\contentsline {chapter}{\numberline {附录 A}补充内容}{18}{appendix.A}% 
-\contentsline {section}{\numberline {A.1}图表示例}{18}{section.A.1}% 
-\contentsline {subsection}{\numberline {A.1.1}图}{18}{subsection.A.1.1}% 
-\contentsline {subsection}{\numberline {A.1.2}表格}{18}{subsection.A.1.2}% 
-\contentsline {section}{\numberline {A.2}数学公式}{19}{section.A.2}% 
-\contentsline {chapter}{致\hskip 1em\relax 谢}{20}{section*.26}% 
-\contentsline {chapter}{声\hspace {1em}明}{21}{section*.28}% 
-\contentsline {chapter}{个人简历、在学期间完成的相关学术成果}{22}{section*.30}% 
-\contentsline {chapter}{指导教师学术评语}{23}{appendix*.36}% 
-\contentsline {chapter}{答辩委员会决议书}{24}{appendix*.37}% 
+\contentsline {chapter}{\numberline {附录 A}补充内容}{131}{appendix.A}% 
+\contentsline {section}{\numberline {A.1}图表示例}{131}{section.A.1}% 
+\contentsline {subsection}{\numberline {A.1.1}图}{131}{subsection.A.1.1}% 
+\contentsline {chapter}{致\hskip 1em\relax 谢}{132}{section*.94}% 
+\contentsline {chapter}{声\hspace {1em}明}{133}{section*.96}% 
+\contentsline {chapter}{个人简历、在学期间完成的相关学术成果}{134}{section*.98}% 
+\contentsline {chapter}{指导教师学术评语}{136}{appendix*.104}% 
+\contentsline {chapter}{答辩委员会决议书}{137}{appendix*.105}% 
 \contentsfinish 

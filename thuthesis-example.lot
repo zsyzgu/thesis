@@ -1,5 +1,15 @@
+\contentsline {table}{\numberline {2.1}{\ignorespaces 拟合触摸运动方程时对未知参数的约束\relax }}{19}{table.caption.25}% 
+\contentsline {table}{\numberline {2.2}{\ignorespaces 本实验中触摸交互数据的统计值，括号中的数值为标准差。时间单位为毫秒，距离单位为厘米，力的单位为克，速度单位为米每秒。\relax }}{23}{table.caption.28}% 
+\contentsline {table}{\numberline {2.3}{\ignorespaces 触摸运动模型与第\ref {section:TappingRing}、\ref {section:QwertyRing}、\ref {section:TypeBoard}章所述触摸交互技术之间的联系。\relax }}{27}{table.caption.31}% 
+\contentsline {table}{\numberline {3.1}{\ignorespaces 触摸姿态分类的准确率（括号中数值为标准差）\relax }}{42}{table.caption.41}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces 指环佩戴在不同位置上时的触摸检测准确率（触摸检测延迟为20毫秒）\relax }}{46}{table.caption.46}% 
+\contentsline {table}{\numberline {3.3}{\ignorespaces 表格对比了不同触摸检测技术的性能，括号中的数值为标准差。\relax }}{53}{table.caption.50}% 
+\contentsline {table}{\numberline {4.1}{\ignorespaces 触摸手势识别技术在不同无源表面上的表现\relax }}{71}{table.caption.58}% 
+\contentsline {table}{\numberline {4.2}{\ignorespaces 表格展示了智能打字指环与相关技术的对比。请注意，这一对比仅供参考，由于不同文献中的实验方法和实验条件不同，此对比不是完全公平的。\relax }}{86}{table.caption.72}% 
+\contentsline {table}{\numberline {5.1}{\ignorespaces 表格中展示了三个阶段中喂入支持向量机模型的特征组。除了“时空相关性特征”以外，其余特征组都需要提取100毫秒内的时域特征，包括最大值、最小值、平均值、峰度和偏度。\relax }}{98}{table.caption.77}% 
+\contentsline {table}{\numberline {5.2}{\ignorespaces 阶段二防误触算法的预测失败案例，N表示失败案例计数。\relax }}{101}{table.caption.79}% 
+\contentsline {table}{\numberline {5.3}{\ignorespaces 实验一和实验二之间的用户打字行为差异。本节用T检验来评估差异的显著性，如果Levene测试拒绝了数据的同方差性，本节将使用不等方差T检验来代替T检验。\relax }}{105}{table.caption.81}% 
 \let \contentsline \ttl@gobblecontents 
 \let \contentsline \ttl@gobblecontents 
-\contentsline {table}{\numberline {A.1}{\ignorespaces 附录中的表格示例\relax }}{18}{table.caption.25}% 
 \contentsfinish 
 \contentsfinish 
